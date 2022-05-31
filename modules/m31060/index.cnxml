@@ -1,0 +1,395 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Ontdek die eienskappe van 'n sirkel</title>
+  <metadata>
+  <md:content-id>m31060</md:content-id><md:title>Ontdek die eienskappe van 'n sirkel</md:title>
+  <md:abstract/>
+  <md:uuid>5daaae09-d7dd-4002-adc7-1f5d05e7cb62</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1164535656143">
+      <title>WISKUNDE</title>
+      <para id="para-id1164535656143">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164535869609">
+      <title>Graad 8</title>
+      <para id="para-id1164535869609">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164537669408">
+      <title>RASIONALE GETALLE, SIRKELS EN DRIEHOEKE</title>
+      <para id="para-id1164537669408">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164536069363">
+      <title>Module 13</title>
+      <para id="para-id1164536069363">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164537614689">
+      <title>ONTDEK DIE EIENSKAPPE VAN SIRKELS</title>
+      <para id="id1164535795413">SIRKELS</para>
+      <para id="id1164535707278">AKTIWITEIT 1</para>
+      <para id="id1164537557270">Om die eienskappe van ‘n sirkel te ontdek</para>
+      <table id="id1164537790483" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>LU 3.1</entry>
+              <entry>LU 4.2.1</entry>
+              <entry>LU 3.4</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1164537541959">1. Maak slegs van jou passer gebruik en probeer om die volgende ontwerp te maak:</para>
+      <figure id="id1164535692720">
+        <media id="id1164535692720_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 62.png" id="id1164535692720__onlineimage" height="199" width="258"/>
+        </media>
+      </figure>
+      <para id="id1164534683443">2. Trek nou ‘n sirkel met enige grootte. Maak gebruik van ‘n handboek of enige ander bron en probeer om die volgende dele op jou sirkel aan te dui:</para>
+      <para id="id1164537724390">2.1 Middelpunt : <emphasis effect="italics">T</emphasis></para>
+      <para id="id1164537813989">2.2 Middellyn (Noem dit <emphasis effect="italics">PQ</emphasis>.)</para>
+      <para id="id1164535733152">2.3 Radius: <emphasis effect="italics">TS</emphasis></para>
+      <para id="id1164537618749">2.4 Enige boog: <emphasis effect="italics">FG</emphasis></para>
+      <para id="id1164537818165">2.5 Sektor: <emphasis effect="italics">PTW</emphasis> (Arseer die gedeelte.)</para>
+      <para id="id1164537460758">2.6 Koord: <emphasis effect="italics">KL</emphasis></para>
+      <para id="id1164537606728">2.7 Maak gebruik van ‘n gekleurde potlood en dui aan waar jy die omtrek van die sirkel sal bepaal.</para>
+      <para id="id1164537741326">3. Maak gebruik van jou skets en beantwoord die volgende vrae:</para>
+      <para id="id1164535925229">3.1 Wat is kenmerkend omtrent <emphasis effect="italics">TW</emphasis>, <emphasis effect="italics">PT</emphasis>, <emphasis effect="italics">TS</emphasis> en <emphasis effect="italics">TQ</emphasis>?  </para>
+      <para id="id1164542211742">3.2 Meet 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mover accent="true"><m:mi>T</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>W</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P { hat  {T}}W} {}</m:annotation></m:semantics></m:math>. </para>
+      <para id="id1164535659623">3.3 Wat is die grootte van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mover accent="true"><m:mi>T</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>Q</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P { hat  {T}}Q} {}</m:annotation></m:semantics></m:math>?   </para>
+      <para id="id1164535669734">3.4 Wat word hierdie tipe hoek genoem?  </para>
+      <para id="id1164537836493">4. Konstrueer nou die volgende m.b.v. jou passer:</para>
+      <para id="id1164537869775">4.1 sirkel met middellyn 4 cm</para>
+      <para id="id1164537711957">4.2 sirkel met radius 1,5 cm</para>
+      <para id="id1164537779231">5. Hoe sal jy te werk gaan om ‘n sirkel van 4 m te konstrueer?</para>
+      <list id="id1164535671590" list-type="bulleted">
+        <item>Plan: </item>
+      </list>
+      <para id="id1164537743820">AKTIWITEIT 2</para>
+      <para id="id1164536063679">Om die omtrek van ‘n sirkel te ontdek en probleme in dié verband te bemeester</para>
+      <table id="id1164537663264" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>LU 4.2.2</entry>
+              <entry>LU 4.3.1</entry>
+              <entry>LU 4.3.2</entry>
+              <entry>LU 4.3.3</entry>
+              <entry>LU 4.4</entry>
+              <entry>LU 4.5.1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1164534718782">1. Maak gebruik van vier verskillende grootte bottels / koppies. Gebruik ’n stukkie tou en meet die middellyn en omtrek van elk van die bottels en voltooi die volgende tabel: </para>
+      <table id="id1164536048425" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>omtrek (O)</entry>
+              <entry>middellyn (m/d)</entry>
+              <entry>O ÷ m/d</entry>
+            </row>
+            <row>
+              <entry>Bottel 1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bottel 2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bottel 3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bottel 4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1164543177966">1.1 Wat sien jy omtrent die laaste kolom?   omtrek ÷ middellyn</para>
+      <para id="id1164535863461">1.2 Wat word hierdie antwoord in die laaste kolom genoem?  </para>
+      <para id="id1164540575488">1.3 Gee twee waardes wat vir π gebruik kan word: ...................... of ......................</para>
+      <para id="id1164535964730">1.4 Wat is dus die formule wat gebruik kan word om die omtrek van enige sirkel te bereken? </para>
+      <para id="id1164537512907"/>
+      <para id="id1164536050687">2. Ons kan ook die formule van ‘n sirkel aflei deur soos volg te werk te gaan:</para>
+      <para id="id1164537832143">2.1 Trek ‘n sirkel met middelpunt <emphasis effect="italics">P</emphasis> en radius 25 mm op ‘n vel papier.</para>
+      <para id="id1164540358607">2.2 Knip die sirkel uit en maak ‘n merk op enige plek op die rand van die sirkel.</para>
+      <para id="id1164537354412">2.3 Trek ‘n lyn met ‘n liniaal op die oop spasie gelaat en rol die sirkel totdat dit een keer omgerol is. Maak ‘n merkie op jou lyn, nadat dit een keer omgerol is.</para>
+      <para id="id1164540455518">2.4 Maak gebruik van jou liniaal en meet die afstand van waar jy begin rol het tot waar jy gestop het. </para>
+      <list id="id1164535727824" list-type="bulleted">
+        <item>Afstand: ......................... mm</item>
+      </list>
+      <para id="id1164534549986">2.5 Wat sal ons hierdie afstand wat jy in 2.4 gemeet het, noem?  </para>
+      <para id="id1164537669872">2.6 Maak gebruik van jou sakrekenaar en bereken die volgende:</para>
+      <list id="id1164535798487" list-type="bulleted">
+        <item>omtrek ÷ middellyn = ...................... ÷ ...................... = .........................</item>
+      </list>
+      <para id="id1164535905952">2.7 Wat word die antwoord wat jy nou verkry het, genoem?  </para>
+      <para id="id1164537745850"/>
+      <para id="id1164542185871">3. As ek sou sê my fiets se wiel het een omwenteling gemaak, wat word dus eintlik daarmee bedoel? </para>
+      <para id="id1164535928013"/>
+      <para id="id1164534648190">4. Skryf die formule om die omtrek van die sirkel te bereken hier neer en beantwoord die vrae wat volg:</para>
+      <list id="id1164537808479" list-type="bulleted">
+        <item>Omtrek = ..................................................</item>
+      </list>
+      <para id="id1164535703682">4.1 Hoe sal jy die radius van ‘n sirkel bereken, indien die omtrek gegee word?</para>
+      <list id="id1164537622519" list-type="bulleted">
+        <item>Radius (<emphasis effect="italics">R</emphasis>) = ..................................................</item>
+      </list>
+      <para id="id1164536051557">4.2 Hoe sal jy die middellyn van ‘n sirkel bereken, indien die omtrek gegee word?</para>
+      <list id="id1164535877961" list-type="bulleted">
+        <item>Middellyn (<emphasis effect="italics">m</emphasis>/<emphasis effect="italics">d</emphasis>) = ..................................................</item>
+      </list>
+      <para id="id1164540504494">Nou kan jy enige vraag rakende ‘n sirkel of wiel of enigiets wat rond is beantwoord, as dit met middellyn, radius en omtrek te doen het.</para>
+      <para id="id1164540667632">5. Gebruik jou sakrekenaar om die omtrek van elk van die volgende sirkels te bereken: </para>
+      <para id="id1164536027908"><emphasis effect="bold">Belangrik</emphasis>: Skryf altyd eers die formule neer.(π = 3,14).</para>
+      <para id="id1164537732626">5.1 <emphasis effect="italics">r</emphasis> = 230 mm 5.2 </para>
+      <para id="id1164535861779"><emphasis effect="italics">r</emphasis> = 1,45 cm (antwoord tot tweedes)</para>
+      <para id="id1164537625593">6. Bepaal die omtrek van elk van die volgende sirkels sonder die gebruik van ‘n sakrekenaar. </para>
+      <para id="id1164535795529"><emphasis effect="bold">Belangrik</emphasis> : Skryf eers die formule neer.(π = 22/7)</para>
+      <para id="id1164536010160">6.1 <emphasis effect="italics">r</emphasis> = 14 cm </para>
+      <para id="id1164536012770">6.2 <emphasis effect="italics">d</emphasis> = 35 cm</para>
+      <para id="id1164537841065">7. Bereken die radius van die volgende sirkel: Jy mag jou sakrekenaar gebruik, maar jy moet alle stappe toon.  (π= 22/7)</para>
+      <para id="id1164535883239">7.1 omtrek 242 mm </para>
+      <para id="id1164540496466">8. Hoeveel omwentelings sal ‘n bergfietswiel met middellyn van 67 cm maak oor ‘n afstand van 7,5 m? </para>
+      <para id="id1164540279213"/>
+      <para id="id1164535674502">AKTIWITEIT 3</para>
+      <para id="id1164537831911">Om die oppervlakte van ‘n sirkel te ontdek en probleme in dié verband te bemeester</para>
+      <table id="id1164537717641" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>LU 4.2.1</entry>
+              <entry>LU 4.2.1</entry>
+              <entry>LU 4.5.1</entry>
+              <entry>LU 4.3</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1164535802083">1. Kan jy nog onthou wat die formule is om die oppervlakte van ‘n reghoek te bereken? </para>
+      <para id="id1164537826575"/>
+      <para id="id1164535906880">2. Trek ‘n sirkel met middelpunt <emphasis effect="italics">O</emphasis> met radius 60 mm op ‘n vel papier. Verdeel die sirkel in 32 ewe groot sektore. Kleur 16 rooi in en die ander 16 blou.</para>
+      <para id="id1164542064056">3. Knip nou al 32 sektore uit en plaas hulle langs mekaar, sodat die driehoeke ‘n plaveisel vorm om uiteindelik ‘n reghoek te vorm.</para>
+      <list id="id1164537365501" list-type="bulleted">
+        <item>Plak jou driehoeke hier.</item>
+      </list>
+      <para id="id1164535716524">4. Meet nou die lengte en breedte van die reghoek. Bereken nou met behulp van die formule in nr. 1 die oppervlakte van jou reghoek.</para>
+      <para id="id1164535708090"/>
+      <para id="id1164537462382">5. Watter afleiding kan jy maak ten opsigte van die reghoek en die sirkel wat jy in nr. 2 geteken het?</para>
+      <para id="id1164535996356"/>
+      <para id="id1164535802141">6. In watter eenhede word oppervlakte bereken?  </para>
+      <para id="id1164535712290">7. Gee nou ‘n formule om die oppervlakte van enige sirkel te bereken.</para>
+      <para id="id1164537468205"/>
+      <para id="id1164537796705">8. Bereken nou die oppervlakte van die sirkel wat jy in nr. 2 gekonstrueer het met behulp van die formule in nr. 7.</para>
+      <para id="id1164535769750"/>
+      <para id="id1164537825705">Wat sien jy?  </para>
+      <para id="id1164537622751">9. Bereken die oppervlakte van die volgende sirkels sonder ‘n sakrekenaar.</para>
+      <list id="id1164534557002" list-type="bulleted">
+        <item>(π = 22/7)</item>
+      </list>
+      <para id="id1164542240382">9.1 <emphasis effect="italics">r</emphasis> = 14,7 cm </para>
+      <para id="id1164535905778">9.2 <emphasis effect="italics">d</emphasis> = 56,49 cm</para>
+      <para id="id1164537460228">10. Bereken die oppervlakte van die gearseerde gedeeltes. </para>
+      <list id="id1164535849713" list-type="bulleted">
+        <item>Jy mag jou sakrekenaar gebruik. (π = 3,14)</item>
+      </list>
+      <figure id="id1164536032896">
+        <media id="id1164536032896_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 61.png" id="id1164536032896__onlineimage" height="226" width="542"/>
+        </media>
+      </figure>
+      <para id="id1164535893946">11. Bereken die oppervlakte van die gearseerde gedeeltes.</para>
+      <figure id="id1164537539465">
+        <media id="id1164537539465_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 60.png" id="id1164537539465__onlineimage" height="253" width="465"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id1164537685242">
+      <title/>
+      <para id="para-id1164537685242">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164535947849">
+      <title>Assessering</title>
+      <table id="id1164535941875" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 3 </entry>
+            </row>
+            <row>
+              <entry>Ruimte en Vorm (Meetkunde)Die leerder is in staat om eienskappe van en verwantskappe tussen twee- dimensionele vorms en drie-dimensionele voorwerpe in ’n verskeidenheid oriënta-sies en posisies te beskryf en voor te stel.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>3.2 in kontekste insluitend sodaniges wat gebruik kan word om bewustheid van sosiale, kulturele en omgewingsaangeleenthede te skep, geometriese figure en soliedes kan beskryf en klassifiseer in terme van eienskappe, insluitend:</entry>
+            </row>
+            <row>
+              <entry>3.2.1 sye, hoeke en diagonale en hul verbande, met die fokus op driehoeke en kwadrilaterale (bv. tipes driehoeke en kwadrilaterale).</entry>
+            </row>
+            <row>
+              <entry>LU 4 </entry>
+            </row>
+            <row>
+              <entry>MetingDie leerder is in staat om gepaste meeteenhede, -instrumente en formules in ’n verskeidenheid kontekste te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>4.2 probleme kan oplos wat die volgende behels:</entry>
+            </row>
+            <row>
+              <entry>4.2.1 lengte;</entry>
+            </row>
+            <row>
+              <entry>4.2.2 omtrek en oppervlak van poligone en sirkels;</entry>
+            </row>
+            <row>
+              <entry>4.3 probleme aan die hand van ‘n reeks strategieë oplos wat die volgende insluit:</entry>
+            </row>
+            <row>
+              <entry>4.3.1 skatting;</entry>
+            </row>
+            <row>
+              <entry>4.3.2 berekening tot minstens twee desimale plekke;</entry>
+            </row>
+            <row>
+              <entry>4.3.3 die gebruik en omskakeling van toepaslike SI eenhede;</entry>
+            </row>
+            <row>
+              <entry>4.4 die betekenis van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> kan beskryf en dit in berekeninge wat sirkels behels kan gebruik, en ook die historiese ontwikkeling daarvan in meting kan bespreek;</entry>
+            </row>
+            <row>
+              <entry>4.5 die volgende kan bereken deur toepaslike formules te kies en te gebruik:</entry>
+            </row>
+            <row>
+              <entry>4.5.1 omtrek van poligone en sirkels;</entry>
+            </row>
+            <row>
+              <entry>4.5.2 oppervlakte van driehoeke, reghoeke, sirkels en poligone deur hulle in driehoeke en reghoeke op te breek;</entry>
+            </row>
+            <row>
+              <entry>4.8 die verband tussen die sye van ‘n reghoekige driehoek kan ondersoek (alleen en/of as lid van ‘n groep) om die stelling van Pythagoras te ondersoek;</entry>
+            </row>
+            <row>
+              <entry>4.9 die stelling van Pythagoras kan gebruik om ‘n ontbrekende lengte in ‘n reghoekige driehoek te bereken terwyl irrasionele antwoorde in surd-vorm (√) gelaat word;</entry>
+            </row>
+            <row>
+              <entry>4.10 wyses van meting in verskillende kulture in die geskiedenis kan beskryf en illustreer (bv. die bepaling van reghoeke deur geknoopte lyn te gebruik en by die stelling van Pythagoras uit te kom).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1164537669234">
+      <title>Memorandum</title>
+      <para id="id1164537690091">AKTIWITEIT 2</para>
+      <para id="id1164535903864">5.1 <emphasis effect="italics">O</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> x <emphasis effect="italics">d</emphasis></para>
+      <para id="id1164535982478"><emphasis effect="italics">O</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> x 460</para>
+      <para id="id1164534683263"><emphasis effect="italics">O</emphasis> = 1 444,4 mm</para>
+      <para id="id1164537755049">5.2 <emphasis effect="italics">C</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> x <emphasis effect="italics">d</emphasis></para>
+      <para id="id1164537514763"><emphasis effect="italics">C</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> x 2,9</para>
+      <para id="id1164537600070"><emphasis effect="italics">C</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 9,11 cm</para>
+      <para id="id1164540355729">6.1 <emphasis effect="italics">C</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> x <emphasis effect="italics">d</emphasis></para>
+      <para id="id1164540504472"><emphasis effect="italics">C</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>22</m:mtext><m:msub><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"22"}  over  { { {7}} rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math> x 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mn>8</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { {2}} { {8}} rSup { size 8{4} } }  over  {1} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1164537671612"><emphasis effect="italics">C</emphasis> = 88 cm</para>
+      <para id="id1164535974648">6.2 <emphasis effect="italics">C</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> x <emphasis effect="italics">d</emphasis></para>
+      <para id="id1164534532533"><emphasis effect="italics">C</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>22</m:mtext><m:msub><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"22"}  over  { { {7}} rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math> x 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { {3}} { {5}} rSup { size 8{5} } }  over  {1} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1164542346263"><emphasis effect="italics">C</emphasis> = 110 cm</para>
+      <para id="id1164537727464">7.1  <emphasis effect="italics">C</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> x <emphasis effect="italics">d</emphasis></para>
+      <para id="id1164537875954"> 242 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>22</m:mtext><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"22"}  over  {7} } } {}</m:annotation></m:semantics></m:math> x <emphasis effect="italics">d</emphasis></para>
+      <para id="id1164535904038"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>242</m:mtext><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"242"}  over  {1} } } {}</m:annotation></m:semantics></m:math> x 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>22</m:mtext><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"22"}  over  {7} } } {}</m:annotation></m:semantics></m:math> = <emphasis effect="italics">d</emphasis></para>
+      <para id="id1164537840717"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">d</emphasis> = 77 mm</para>
+      <para id="id1164536066637">8. <emphasis effect="italics">C</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> x <emphasis effect="italics">d</emphasis></para>
+      <para id="id1164535776927">  = 3,14 x 67 cm    </para>
+      <para id="id1164542196020">  = 210,38 cm</para>
+      <para id="id1164534721326">750 ÷ 210,38 cm<emphasis effect="bold"/></para>
+      <para id="id1164534556196">= 3,6 rewolusies<emphasis effect="bold"/></para>
+      <para id="id1164535666105">AKTIWITEIT 3</para>
+      <para id="id1164535678747">9. <emphasis effect="italics">A</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> x <emphasis effect="italics">r</emphasis><sup>2</sup></para>
+      <para id="id1164540498730">  = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>22</m:mtext><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"22"}  over  {7} } } {}</m:annotation></m:semantics></m:math> x 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>14</m:mtext><m:mi>,</m:mi><m:mn>7</m:mn></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"14",7}  over  {1} } } {}</m:annotation></m:semantics></m:math> x 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>14</m:mtext><m:mi>,</m:mi><m:mn>7</m:mn></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"14",7}  over  {1} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1164535679907">  = 679,14 cm<sup>2</sup></para>
+      <list id="id1164535731072" list-type="bulleted">
+        <item><emphasis effect="italics">r </emphasis>= 28,25</item>
+      </list>
+      <para id="id1164535923489"><emphasis effect="italics">A</emphasis> = 2 505,92 cm<sup>2</sup></para>
+      <para id="id1164535855049">10.  <emphasis effect="bold"/><emphasis effect="italics">A</emphasis><emphasis effect="bold"/></para>
+      <para id="id1164540558698"> (3,14 x 15<sup>2</sup>) – (3,14 x 15<sup>2</sup>)  </para>
+      <para id="id1164535774481"> = 706,5 – 78,5    </para>
+      <para id="id1164535876105"> = 628 cm<sup>2</sup></para>
+      <para id="id1164535729796">B</para>
+      <para id="id1164537756731">(14,5)<sup>2</sup> – (3,14 x 7,25<sup>2</sup> x 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>)</para>
+      <para id="id1164537833825">= 210,25 – 82,52</para>
+      <para id="id1164536009696">= 127,73 cm<sup>2</sup></para>
+      <para id="id1164542333765">11. (40 x 40) – (3,14 x 15<sup>2</sup>)</para>
+      <para id="id1164540651170"> = 1 600 – 706,5</para>
+      <para id="id1164537477972"> = 893,5 cm<sup>2</sup></para>
+    </section>
+  </content>
+</document>

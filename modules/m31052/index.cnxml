@@ -1,0 +1,573 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Klassifikasie van driehoeke</title>
+  <metadata>
+  <md:content-id>m31052</md:content-id><md:title>Klassifikasie van driehoeke</md:title>
+  <md:abstract/>
+  <md:uuid>e4ff39c5-ad8b-4340-9217-380c45654309</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168555860169">
+      <title>WISKUNDE</title>
+      <para id="para-id1168555860169">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168555144738">
+      <title>Graad 8 </title>
+      <para id="para-id1168555144738">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8810270">
+      <title>HEELGETALLE, VERGELYKINGS EN MEETKUNDE</title>
+      <para id="para-id8810270">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168557558304">
+      <title>Module 10</title>
+      <para id="para-id1168557558304">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5892810">
+      <title>KLASSIFIKASIE VAN DRIEHOEKE</title>
+      <para id="id1105329">KLASOPDRAG 1</para>
+      <list id="id8096856" list-type="bulleted">
+        <item>Kom ontdek stap vir stap meer omtrent ... Meetkunde ....klassifikasie van driehoeke ....</item>
+      </list>
+      <para id="id1168559356494">Soos hoeke, kan driehoeke ook geklassifiseer word.</para>
+      <para id="id1168550511584">1. By die eerste klassifikasie kyk ons slegs na die hoeke van die driehoek.Kan jy die volgende voltooi?</para>
+      <para id="id8048663">a) Skerphoekige driehoeke is driehoeke met   </para>
+      <para id="id1168550376733">b) Reghoekige driehoeke het   </para>
+      <para id="id8431696">c) Stomphoekige driehoeke het   </para>
+      <para id="id1168559664761">2. Klassifiseer die volgende driehoeke volgens hul hoeke (sonder die gebruik van ’n gradeboog)</para>
+      <para id="id8293207">
+        <figure id="id1168555244541">
+          <media id="id1168555244541_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 143.png" id="id1168555244541__onlineimage" height="368" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1168559721490">3. Die tweede klassifikasie is volgens die sye van die driehoek.Kan jy die volgende voltooi?</para>
+      <para id="id1168559081737">a) ’n Gelykbenige driehoek het   </para>
+      <para id="id1168550533657">b) ’n Gelyksydige driehoek het   </para>
+      <para id="id1168555800456">c) ’n Ongelyksydige driehoek se   </para>
+      <para id="id1168550304058">4. Klassifiseer die volgende driehoeke volgens hul sye.</para>
+      <figure id="id1168549615682">
+        <media id="id1168549615682_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 144.png" id="id1168549615682__onlineimage" height="389" width="633"/>
+        </media>
+      </figure>
+      <para id="id1168552698344">KLASOPDRAG 1</para>
+      <list id="id1168549918246" list-type="bulleted">
+        <item>Kom ontdek stap vir stap meer omtrent ... Meetkunde ....berekening van onbekende hoekgroottes.</item>
+      </list>
+      <para id="id6373942">1. Om onbekende hoekgroottes sonder die gebruik van ’n gradeboog te bereken, is dit van kardinale belang om die volgende <emphasis effect="italics">VIER STELLINGS </emphasis>deel van jou meetkunde kennis te maak.Kyk of jy die stellings kan voltooi en verduidelik die stelling dan aan die hand van jou eie voorbeeld (m.b.v. ’n skets)</para>
+      <para id="id1168557525794">1.1 Stelling 1: </para>
+      <para id="id1168557531543">Die som van die hoeke op ’n reguitlyn  </para>
+      <para id="id1168550195913">Voorbeeld:</para>
+      <para id="id1168555612304">1.2 Stelling 2:</para>
+      <para id="id1168557369917">Regoorstaande of teenoorstaande hoeke is  </para>
+      <para id="id1168557450664">Voorbeeld:</para>
+      <para id="id1168557455335"/>
+      <para id="id1168555364576">1.3 Stelling 3:</para>
+      <para id="id1168558293489">Die som van die binnehoeke van enige driehoek is  </para>
+      <para id="id1168557965720">Voorbeeld: Om die stelling te bewys, moet jy die volgende instruksies uitvoer:</para>
+      <para id="id1168557333397">a) Teken enige driehoek op ’n stuk gekleurde papier en knip dit uit.</para>
+      <para id="id1168554957324">b) Merk die hoeke van die driehoek met die letters A, B en C.</para>
+      <para id="id8730588">c) Skeur die hoeke van die driehoek af.</para>
+      <para id="id1168557452023">d) Plak die hoeke van die driehoek langs mekaar op die lyn hier onder sodat die hoekpunte na die punt op die lyn wys.</para>
+      <para id="id1142563"/>
+      <para id="id1168557558749">Voltooi die volgende vergelyking: <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {A}}} {}</m:annotation></m:semantics></m:math></emphasis> + <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}}} {}</m:annotation></m:semantics></m:math></emphasis> + <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>C</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {C}}} {}</m:annotation></m:semantics></m:math></emphasis> = ………°</para>
+      <para id="id8666364">(Let op die skryfwyse van die hoek.)</para>
+      <para id="id1168557536390">1.4 Stelling 4:</para>
+      <para id="id1168561030567">1.4.1 Alvorens ons na stelling 4 kan kyk, is dit belangrik dat die volgende terme vir jou baie duidelik is. Verklaar die volgende terme deur van ’n skets gebruik te maak:</para>
+      <list id="id1168557480038" list-type="bulleted">
+        <item>buitehoek van ’n driehoek</item>
+      </list>
+      <para id="id5398942"/>
+      <para id="id1168563915691"/>
+      <para id="id1168550312745"/>
+      <list id="id1168549612084" list-type="bulleted">
+        <item>binnehoek van ’n driehoek</item>
+      </list>
+      <para id="id1168557526728"/>
+      <para id="id1168555360907"/>
+      <para id="id1168553335258"/>
+      <para id="id1168557549174">1.4.2 Voltooi:</para>
+      <para id="id1168557517808">Die buitehoek van ’n driehoek is  </para>
+      <para id="id1168558404861"/>
+      <para id="id1168555159487">Voorbeeld: (Maak gebruik van grade in jou skets.)</para>
+      <list id="id1168558707130" list-type="bulleted">
+        <item>Die bogenoemde vier stellings gaan as redes dien wanneer jy onbekende hoeke se groottes bereken. </item>
+        <item>Indien jy enige hoekgrootte bereken, moet jy altyd ’n rede vir jou verklaring gee.</item>
+      </list>
+      <para id="id1168551937558">2. Bereken nou die groottes van die onbekende hoeke met redes.(Jou onderwyser sal jou help by die moeiliker voorbeelde.)</para>
+      <para id="id7769879">
+        <figure id="id1168549957552">
+          <media id="id1168549957552_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 145.png" id="id1168549957552__onlineimage" height="200" width="634"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id1168558507691">
+        <media id="id1168558507691_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 146.png" id="id1168558507691__onlineimage" height="418" width="633"/>
+        </media>
+      </figure>
+      <para id="id1168557454460">HUISWERKOPDRAG 1 EN 2</para>
+      <para id="id1168552873129">1. Voltooi elk van die volgende en gee redes vir die volgende stellings:</para>
+      <para id="id1168558597473">
+        <figure id="id1168555272931">
+          <media id="id1168555272931_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 147.png" id="id1168555272931__onlineimage" height="408" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id1168557536325">
+        <media id="id1168557536325_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 150.png" id="id1168557536325__onlineimage" height="472" width="632"/>
+        </media>
+      </figure>
+      <para id="id1168555102577">
+        <figure id="id1168553302824">
+          <media id="id1168553302824_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 153.png" id="id1168553302824__onlineimage" height="196" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1168559033749">2. Bereken die groottes van elk van die onbekende hoeke en verstrek redes by elk.</para>
+      <figure id="id1168551645686">
+        <media id="id1168551645686_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 155.png" id="id1168551645686__onlineimage" height="482" width="634"/>
+        </media>
+      </figure>
+      <para id="id1168558847944"><emphasis effect="bold"/><emphasis effect="bold">L</emphasis>e<emphasis effect="underline">ereenhei</emphasis>d <emphasis effect="bold">3</emphasis><emphasis effect="bold"/><emphasis effect="bold">Assessering 3.1</emphasis></para>
+      <table id="id1168549951676" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessering van myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">deur myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessering deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry>Ek kan…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Kritieke Uitkomste</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>1. enige grootte hoek konstrueer; (Lu 3.2 ; 4.7);</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kritiese en skeppende denke</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2. enige gegewe hoek klassifiseer; (Lu 3.2);</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Deelname</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3. hoekgroottes m.b.v. ’n gradeboog bepaal; (Lu 3.2 ; 4.7);</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organisering en bestuur</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4. driehoeke klassifiseer volgens hulle hoeke en sye; (Lu 3.2 ; 3.3);</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Prosessering van inligting</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5. stelling: som van hoeke op ’n reguitlyn toepas; (Lu 3.2);</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kommunikasie</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6. stelling: som van drie hoeke op ’n driehoek toepas; (Lu 3.2 ; 3.3);</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Probleemoplossing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7. stelling: die buitehoek van ’n driehoek = som van twee teenoordstaande binnehoeke toepas; (Lu 3.2 ; 3.3);</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Selfstandigheid</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8. onbekende hoekgroottes bepaal deur 5 tot 7 toe te pas; (Lu 3.2; 3.3).</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168555522559">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">goed</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">gedeeltelik</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">nie goed nie</emphasis>
+      </para>
+      <table id="id1168555753693" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur die leerder:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan van aksie:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My punte:</entry>
+            </row>
+            <row>
+              <entry>Ek is besonder tevrede met die standaard van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Datum</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek is tevrede met die vordering van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Uit:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het hard gewerk, maar is nie tevrede met my prestasie nie.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Leerder</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het nie my beste gelewer nie.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1168555766505" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur ouers:</entry>
+              <entry/>
+              <entry>Kommentaar deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+              <entry/>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168551621915">
+      <title>Assessering</title>
+      <table id="id1168557498669" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 3 </entry>
+            </row>
+            <row>
+              <entry>Ruimte en Vorm (Meetkunde)Die leerder is in staat om eienskappe van en verwantskappe tussen twee- dimensionele vorms en drie-dimensionele voorwerpe in ’n verskeidenheid oriënta-sies en posisies te beskryf en voor te stel.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>3.2 in kontekste insluitend sodaniges wat gebruik word om sosiale-, kulturele- en omgewingsbewustheid aan te kweek, meetkundige figure in terme van kenmerke beskryf en klassifiseer, insluitend:3.2.1 sye, hoeke en diagonale (hoeklyne) en hulle verwantskappe, met die klem op driehoeke en vierhoeke (bv. soorte driehoeke en vierhoeke);3.3 woordeskat gebruik om parallelle te beskryf wat deur ‘n dwarslyn, loodlyne en snylyne gekruis word, asook driehoeke na aanleiding van hoekverwantskappe (bv. vertikaal teenoorstaande, ooreenkomstig).</entry>
+            </row>
+            <row>
+              <entry>LU 4 </entry>
+            </row>
+            <row>
+              <entry>MetingDie leerder is in staat om gepaste meeteenhede, -instrumente en formules in ’n verskeidenheid kontekste te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>4.7 hoeke met behulp van ’n gradeboog akkuraat tot een graad kan skat, vergelyk, meet en teken.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1215929">
+      <title>Memorandum</title>
+      <para id="id1168557526747">KLASWERKOPDRAG 1</para>
+      <list id="id1168551619821" list-type="bulleted">
+        <item>= 180<sup>0</sup></item>
+        <item>ewe groot</item>
+        <item>180<sup>0</sup></item>
+      </list>
+      <list id="id1168557449331" list-type="bulleted">
+        <item>Buitehoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <para id="id1168552007226">Binnehoek <!--Sorry, this media type is not supported.--></para>
+      <list id="id1168551808960" list-type="bulleted">
+        <item>Gelyk aan die som van die 2 teenoorstaande binnehoeke</item>
+      </list>
+      <para id="id1168555363193"><emphasis effect="italics">x</emphasis> = 130<sup>0</sup> – 50<sup>0</sup></para>
+      <para id="id1168552725129">= 80<sup>0</sup></para>
+      <list id="id1168550544246" list-type="bulleted">
+        <item><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – 126<sup>0</sup> (reguit lyn)</item>
+      </list>
+      <para id="id1168557395120">= 54<sup>0</sup></para>
+      <para id="id1168550278864">2.2 180<sup>0</sup> – (90<sup>0</sup> + 39<sup>0</sup>) (reguit lyn)</para>
+      <para id="id1168558761276">= 51<sup>0</sup></para>
+      <para id="id1168555733663">2.3 <emphasis effect="italics">b</emphasis> = 180<sup>0</sup> – (63<sup>0</sup> + 34<sup>0</sup>) (3<sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>e</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠e} {}</m:annotation></m:semantics></m:math></sup> = 180<sup>0</sup>)</para>
+      <para id="id1168560674047">= 83<sup>0</sup></para>
+      <para id="id1168561669174"><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – 83 (reguit lyn)</para>
+      <para id="id1168550384247">= 97<sup>0</sup>  buitehoek = som van 2 teenoorstaande binnehoeke <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>e</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠e} {}</m:annotation></m:semantics></m:math></sup></para>
+      <para id="id1168550561410">2.4 3<emphasis effect="italics">a</emphasis> + 75 = 180<sup>0</sup> (reguit lyn)</para>
+      <para id="id1168549902880">3<emphasis effect="italics">a</emphasis> = 105<sup>0</sup></para>
+      <para id="id1168554411544"><emphasis effect="italics">a</emphasis> = 35<sup>0</sup></para>
+      <list id="id1168556268367" list-type="bulleted">
+        <item><emphasis effect="italics">b</emphasis> = 180<sup>0</sup> – 105<sup>0</sup> (reguit lyn)</item>
+      </list>
+      <para id="id8739972">= 75<sup>0</sup></para>
+      <para id="id1168561887865"><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – (65<sup>0</sup> + 75<sup>0</sup>) (3<sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>e</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠e} {}</m:annotation></m:semantics></m:math></sup> = 180<sup>0</sup>)</para>
+      <para id="id1168550383981">= 40<sup>0</sup></para>
+      <list id="id5841505" list-type="bulleted">
+        <item>2<emphasis effect="italics">a</emphasis> – 10<sup>0</sup> = 30<sup>0</sup> - <emphasis effect="italics">a</emphasis> (vert. teenoorstaande <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>e</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠e \) } {}</m:annotation></m:semantics></m:math></sup></item>
+      </list>
+      <para id="id1168561624078">3<emphasis effect="italics">a</emphasis> = 40</para>
+      <para id="id3069284"><emphasis effect="italics">a</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>40</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"40"}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1168556066755"><emphasis effect="italics">a</emphasis> = 13,3<sup>0</sup></para>
+      <para id="id1168561951040">HUISWERKOPDRAG 1 EN 2</para>
+      <list id="id8519980" list-type="bulleted">
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {2}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 180<sup>0</sup> (reguit lyn)</item>
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {2}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {3}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 180<sup>0</sup> (3<sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>e</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠e} {}</m:annotation></m:semantics></m:math></sup> ∆ = 180<sup>0</sup>)</item>
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {4}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {2}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> (buite <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></sup> van = som van 2 teenoorstaande binne <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>e</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠e} {}</m:annotation></m:semantics></m:math></sup>)</item>
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {3}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {2}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> ( )</item>
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {3}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {4}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> (
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {3}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> ( ); 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {4}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> (teenoorst. <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>e</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠e} {}</m:annotation></m:semantics></m:math></sup>)</item>
+      </list>
+      <para id="id1163734">2.1 <emphasis effect="italics">p</emphasis> = 89<sup>0</sup> + 20<sup>0</sup> (teenoorst. <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>e</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠e} {}</m:annotation></m:semantics></m:math></sup>)</para>
+      <para id="id1114864">  = 109<sup>0</sup></para>
+      <list id="id1168555069054" list-type="bulleted">
+        <item>2<emphasis effect="italics">x</emphasis> + 4<emphasis effect="italics"> x</emphasis> + 3<emphasis effect="italics"> x</emphasis> = 180<sup>0</sup> (reguit lyn)</item>
+      </list>
+      <para id="id1168555112680">9<emphasis effect="italics"> x</emphasis> = 180<sup>0</sup></para>
+      <para id="id1168556217234"><emphasis effect="italics">x</emphasis> = 20<sup>0</sup></para>
+      <list id="id1168552950796" list-type="bulleted">
+        <item><emphasis effect="italics">b</emphasis> = 180<sup>0</sup> – (115<sup>0</sup> + 30<sup>0</sup>) (reguit lyn)</item>
+      </list>
+      <para id="id1168555859931">= 35<sup>0</sup></para>
+      <para id="id1168561741087"><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – (115<sup>0</sup> + 35<sup>0</sup>) (reguit lyn)</para>
+      <para id="id1168554735424">= 30<sup>0</sup></para>
+      <list id="id1168558253569" list-type="bulleted">
+        <item><emphasis effect="italics">a</emphasis> + <emphasis effect="italics">a</emphasis> + 140<sup>0</sup> = 180<sup>0</sup> (reguit lyn)</item>
+      </list>
+      <para id="id6956162">2<emphasis effect="italics">a</emphasis> = 40<sup>0</sup></para>
+      <para id="id1168552942684"><emphasis effect="italics">a</emphasis> = 20<sup>0</sup></para>
+      <para id="id6408998">2.5 <emphasis effect="italics">x</emphasis> + 10<sup>0</sup> + 3<emphasis effect="italics"> x</emphasis> – 50<sup>0</sup> = 2<emphasis effect="italics"> x</emphasis> + 36<sup>0</sup> (verlenging <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></sup><sup/>van )</para>
+      <para id="id2638268"><emphasis effect="italics">x</emphasis> + 3<emphasis effect="italics"> x</emphasis> – 2<emphasis effect="italics"> x</emphasis> = 36<sup>0</sup> + 50<sup>0</sup> – 10<sup>0</sup></para>
+      <para id="id1168563949576">2<emphasis effect="italics"> x</emphasis> = 76<sup>0</sup></para>
+      <para id="id1168555642670"><emphasis effect="italics">x</emphasis> = 38<sup>0</sup></para>
+      <para id="id1168560931232">2.6 <emphasis effect="italics">p</emphasis> = r = (180<sup>0</sup> – 110<sup>0</sup>) (reguit lyn)</para>
+      <para id="id1168550397635">  = 70<sup>0</sup> (<emphasis effect="italics">p</emphasis> = <emphasis effect="italics">r</emphasis>, gelykbenige )</para>
+      <para id="id1168561682402"><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – 140<sup>0</sup>) (3<sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>e</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠e} {}</m:annotation></m:semantics></m:math></sup> ∆ = 180<sup>0</sup>)</para>
+      <para id="id1168555548935">  = 40<sup>0</sup></para>
+    </section>
+  </content>
+</document>

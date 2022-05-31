@@ -1,0 +1,188 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Volume en buite-oppervlakte van regte prismas</title>
+  <metadata>
+  <md:content-id>m31081</md:content-id><md:title>Volume en buite-oppervlakte van regte prismas</md:title>
+  <md:abstract/>
+  <md:uuid>8cf93a0e-240f-42ed-b223-192e535e63a0</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1163680117273">
+      <title>WISKUNDE</title>
+      <para id="para-id1163680117273">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163679769275">
+      <title>Grade 8</title>
+      <para id="para-id1163679769275">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163680062852">
+      <title>VERHOUDINGS EN EWEREDIGHEID</title>
+      <para id="para-id1163680062852">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163677737273">
+      <title>METING EN VORMLEER</title>
+      <para id="para-id1163677737273">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163679819794">
+      <title>KONSTRUKSIES</title>
+      <para id="para-id1163679819794">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7272035">
+      <title>Module 16</title>
+      <para id="para-id7272035">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163679401718">
+      <title>VOLUME EN BUITE-OPPERVLAKTE VAN REGTE PRISMAS</title>
+      <para id="id1029509">AKTIWITEIT 1</para>
+      <para id="id1163677497170">Om die volume en die buite-oppervlakte van regte prismas te ontdek en ‘n formule vir die berekening daarvan te formuleer, en die toepassing van die ontdekte formules in praktiese situasies te gebruik [LU 3.8, 4.2, 4.3, 4.5]</para>
+      <list id="id7247770" list-type="bulleted">
+        <item>Inligting wat van nut kan wees in die uitvoer van hierdie ondersoek moet hier neergeskryf word. Jou onderwyser sal jou help om seker te maak dat die inligting korrek is, voordat jy met die ondersoek begin.</item>
+      </list>
+      <para id="id1163677479214">1. Skryf die formules vir die berekening van die oppervlakte en volume van elk van die volgende figure neer:</para>
+      <para id="id1163677461846">1.1 Oppervlakte van ‘n vierkant:  </para>
+      <para id="id7111684">1.2 Oppervlakte van ‘n reghoek:  </para>
+      <para id="id6453400">1.3 Oppervlakte van ‘n driehoek:  </para>
+      <para id="id7278508">1.4 Oppervlakte van ‘n sirkel:  </para>
+      <para id="id2567948">1.5 Volume van ‘n reghoekige prisma:  </para>
+      <para id="id8947771">1.6 Volume van ‘n silinder:  </para>
+      <para id="id7268604">2. Beskryf wat jy onder elk van die volgende verstaan en maak ‘n skets daarvan.</para>
+      <para id="id1163679106410">2.1 reghoekige prisma:  </para>
+      <para id="id1163679768864">2.2 driehoekig prisma:  </para>
+      <para id="id1163679558038">2.3 kubus:  </para>
+      <para id="id1163679072042">2.4 silinder:  </para>
+      <para id="id7245483">3. Wat verstaan jy onder die woord “volume”? </para>
+      <para id="id1163677497366"/>
+      <para id="id1163679768446">4. In watter standaardeenhede word die volgende gemeet?</para>
+      <list id="id7277940" list-type="bulleted">
+        <item>volume:  </item>
+        <item>water in ‘n dam, koeldrank in ‘n bottel:  </item>
+      </list>
+      <para id="id1163686925007">5. Bestudeer die volgende voorstellings van nette.</para>
+      <para id="id1163679497863">5.1 reghoekige prisma:</para>
+      <figure id="id1163678658113">
+        <media id="id1163678658113_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-19e6.png" id="id1163678658113__onlineimage" height="165" width="303"/>
+        </media>
+      </figure>
+      <para id="id1163679699652">5.2 driehoekige prisma (dit is nie ‘n regte piramide nie):</para>
+      <para id="id1163686942970">
+        <figure id="id1163683369998">
+          <media id="id1163683369998_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 3.png" id="id1163683369998__onlineimage" height="301" width="292"/>
+          </media>
+        </figure>
+      </para>
+    </section>
+    <section id="id8804869">
+      <title>Assessering</title>
+      <table id="id1163679530235" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 3 </entry>
+            </row>
+            <row>
+              <entry>Ruimte en VormDie leerder is in staat om eienskappe van en verwantskappe tussen twee- dimensionele vorms en drie-dimensionele voorwerpe in ’n verskeidenheid oriënta-sies en posisies te beskryf en voor te stel.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.3 gebruik woordeskat om parallelle lyne te beskryf wat deur ’n dwarslyn, loodlyne en snylyne gekruis word, asook driehoeke na aanleiding van hoekverwantskappe (bv. vertikaal teenoorstaande, ooreenkomstig);3.4 gebruik ’n passer, liniaal en gradeboog om meetkundige figure akkuraat te konstrueer sodat spesifieke eienskappe ondersoek en nette ontwerp kan word;3.5 ontwerp en gebruik nette om modelle te maak van meetkundige driedimensionele voorwerpe wat tot en met hierdie graad bestudeer is;3.7 gebruik proporsie om die uitwerking van vergroting en verkleining op die eienskappe van meetkundige figure te beskryf;3.8 teken en interpreteer sketse van meetkundige driedimensionele voorwerpe vanuit verskillende perspektiewe, met aandag aan die behoud van eienskappe.</entry>
+            </row>
+            <row>
+              <entry>LU 4 </entry>
+            </row>
+            <row>
+              <entry>MetingDie leerder is in staat om gepaste meeteenhede, -instrumente en formules in ’n verskeidenheid kontekste te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>4.1 los ingewikkelder probleme op wat tyd behels, insluitend die verhouding tussen tyd, afstand en spoed;4.2 los probleme op wat die volgende behels:4.2.1 lengte;4.2.2 omtrek en oppervlakte van veelhoeke en sirkels;4.2.3 en volume en buite-oppervlakte van reghoekige prismas silinders.</entry>
+            </row>
+            <row>
+              <entry>4.3 los probleme op deur ’n verskeidenheid strategieë te gebruik, insluitend:4.3.1 skatting;4.3.2 berekening tot minstens twee desimale plekke;4.3.3 die gebruik en omskakeling van toepaslike SI eenhede;</entry>
+            </row>
+            <row>
+              <entry>4.5 bereken die volgende deur die geskikte formulas te gebruik:4.5.1 omtrek van veelhoeke en sirkels;4.5.2 oppervlakte van driehoeke, reghoeke, sirkels en veelhoeke deur ontbinding tot driehoeke en reghoeke;4.5.3 volume van prismas met driehoekige en reghoekige basisse en silinders.</entry>
+            </row>
+            <row>
+              <entry>4.7 skat, vergelyk, meet en teken hoeke met ’n gradeboog, akkuraat tot een graad.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1163686962266">
+      <title>Memorandum</title>
+      <para id="id1163678623355">AKTIWITEIT 1</para>
+      <list id="id1163677462146" list-type="bulleted">
+        <item>ℓ<sup>2</sup></item>
+        <item>ℓ × <emphasis effect="italics">b</emphasis></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> × <emphasis effect="italics">b</emphasis> × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ortho } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">h</emphasis></item>
+        <item>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mi>π</m:mi>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <emphasis effect="italics">r</emphasis>
+          <sup>2</sup>
+        </item>
+        <item>ℓ × <emphasis effect="italics">b</emphasis> × <emphasis effect="italics">h</emphasis></item>
+        <item>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mi>π</m:mi>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <emphasis effect="italics">r</emphasis>
+          <sup>2</sup>
+          <emphasis effect="italics">h</emphasis>
+        </item>
+      </list>
+      <para id="id8820529">2. Leerders voorsien.</para>
+      <para id="id1163676586014">3. Inhoud</para>
+      <list id="id1163679443829" list-type="bulleted">
+        <item>ℓ / mℓ / kℓ / cm<sup>3</sup> / mm<sup>3</sup> ens.</item>
+        <item>kℓ / ℓ / mℓ</item>
+      </list>
+      <para id="id1163678377862"/>
+    </section>
+  </content>
+</document>

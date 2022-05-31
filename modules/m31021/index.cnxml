@@ -1,0 +1,564 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Optel en aftrek in algebra</title>
+  <metadata>
+  <md:content-id>m31021</md:content-id><md:title>Optel en aftrek in algebra</md:title>
+  <md:abstract/>
+  <md:uuid>e1f9ee37-a342-4359-ae07-7b7be0199aff</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8135360">
+      <title>WISKUNDE</title>
+      <para id="para-id8135360">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6468472">
+      <title>Graad 8</title>
+      <para id="para-id6468472">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168850209116">
+      <title>GETALLESTELSEL</title>
+      <para id="para-id1168850209116">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168849827315">
+      <title>(Natuurlike- en telgetalle)</title>
+      <para id="para-id1168849827315">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168850409676">
+      <title>Module 4</title>
+      <para id="para-id1168850409676">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7194838">
+      <title>OPTEL EN AFTREK IN ALGEBRA</title>
+      <para id="id1168852778466"/>
+      <para id="id1168850043193"/>
+      <para id="id1168849924467"/>
+      <para id="id1168851265516">KLASOPDRAG 1</para>
+      <list id="id1168861267397" list-type="bulleted">
+        <item>Kom ontdek stap vir stap meer omtrent ... optel en aftrek in ALGEBRA….</item>
+      </list>
+      <list id="id1168858635221" list-type="bulleted">
+        <item>In Algebra, as jy optel en/of aftrek, kan jy slegs gelyksoortige (die van dieselfde soort) terme bymekaar tel, of vanmekaar aftrek.</item>
+        <item>bv. 3<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">a</emphasis> = 8<emphasis effect="italics">a</emphasis> (<emphasis effect="italics">a</emphasis> is dieselfde by altwee terme)</item>
+        <item>bv. 3<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">a</emphasis>² (kan nie bymekaar getel word nie, want die een term is <emphasis effect="italics">a</emphasis> en die ander een <emphasis effect="italics">a</emphasis><emphasis effect="bold">²</emphasis> dus: nie dieselfde soort)</item>
+        <item>onthou: -8(+5) beteken: -8 x (+5) = -40(nooit twee tekens langs mekaar nie, vermenigvuldig dan die twee tekens met mekaar)</item>
+      </list>
+      <para id="id1168850824115">1.<emphasis effect="bold"/>Kan jy nog die volgende doen met heelgetalle?</para>
+      <para id="id1168849871626">1.1: -8 - 12 + 8   </para>
+      <para id="id1168855254405">1.2: 7 - (+8) - (-6)  </para>
+      <para id="id1168850962016">1.3: 15 - (-9) + (+7)  </para>
+      <para id="id1168852696308">1.4: 2(-6) - 5(-6)  </para>
+      <para id="id1168851874306">1.5: 50 - 70 + 15  </para>
+      <para id="id1168849918493">2. Kyk nou hier!! Dis nou maklik .....</para>
+      <para id="id8395272">2.1: 2<emphasis effect="italics">a</emphasis> + 2<emphasis effect="italics">a</emphasis> =   (ja, dis dieselfde soort, ek kan optel)</para>
+      <para id="id4398771"/>
+      <para id="id1168855394890">2.2: 3<emphasis effect="italics">a</emphasis> - 6<emphasis effect="italics">y</emphasis> + 7<emphasis effect="italics">a</emphasis> + 15<emphasis effect="italics">y</emphasis> =  (soek dieselfde soorte)</para>
+      <para id="id1168852094170"> 3<emphasis effect="italics">a</emphasis> + 7<emphasis effect="italics">a</emphasis> =  </para>
+      <para id="id1168852096922"> -6<emphasis effect="italics">y</emphasis> + 15<emphasis effect="italics">y</emphasis> =   </para>
+      <para id="id7832113"> (skryf nou die antwoord langs die vraag neer)</para>
+      <para id="id3488916">2.3 Tel nou die volgende uitdrukkings bymekaar:</para>
+      <para id="id1168849774766">2.3.1:  6<emphasis effect="italics">a</emphasis> - 7<emphasis effect="italics">b</emphasis> - 9<emphasis effect="italics">c</emphasis> ; -7<emphasis effect="italics">a</emphasis> + 15<emphasis effect="italics">b</emphasis> - 29<emphasis effect="italics">c</emphasis></para>
+      <para id="id1168853051954"/>
+      <para id="id1168849864935"/>
+      <para id="id1168853962706"/>
+      <para id="id1168853386417">2.3.2 : -9<emphasis effect="italics">a</emphasis>² - 16<emphasis effect="italics">a</emphasis> + 17<emphasis effect="italics">b </emphasis>; -17<emphasis effect="italics">a</emphasis>² -40 ; -29<emphasis effect="italics">b</emphasis> + 30</para>
+      <para id="id1168850594052"/>
+      <para id="id1168850281233"/>
+      <para id="id1168852622117"/>
+      <para id="id3876644">3. Wat van aftrek? Kyk na die volgende voorbeeld:Trek 6 af van 15 . Hoe sal jy dit skryf? 15 - (+6) = 15 - 6 = 9</para>
+      <para id="id1168851276926">Verduideliking: (-) x (+) = (-) DUS: 15 - 6 </para>
+      <list id="id1168849895348" list-type="bulleted">
+        <item>Kyk na die volgende: Trek -6<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> af van 16<emphasis effect="italics">a </emphasis>- 3<emphasis effect="italics">b</emphasis></item>
+      </list>
+      <para id="id1168851550684">Dit sal so lyk: 16<emphasis effect="italics">a</emphasis> - 3<emphasis effect="italics">b</emphasis> - (-6<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis>)</para>
+      <para id="id1168858660015">  = 16<emphasis effect="italics">a</emphasis> - 3<emphasis effect="italics">b</emphasis> + 6<emphasis effect="italics">a</emphasis> - 5<emphasis effect="italics">b</emphasis> (vermenigvuldig (-) in hakie in)</para>
+      <para id="id1168852914872">  = 16<emphasis effect="italics">a</emphasis> + 6<emphasis effect="italics">a</emphasis> - 3<emphasis effect="italics">b</emphasis> - 5<emphasis effect="italics">b</emphasis></para>
+      <para id="id1168847824300">  = 22<emphasis effect="italics">a</emphasis> - 8<emphasis effect="italics">b</emphasis></para>
+      <list id="id1168853263620" list-type="bulleted">
+        <item>Belangrik: Besluit eers watter uitdrukking eerste moet kom!</item>
+      </list>
+      <para id="id8862425">3.1 Bereken nou elk van die volgende:</para>
+      <para id="id7025710">3.1.1 Trek die tweede van die eerste af: -7<emphasis effect="italics">a</emphasis> + 3 ; 6<emphasis effect="italics">a</emphasis> - 9</para>
+      <para id="id1168850509799"/>
+      <para id="id8850276"/>
+      <para id="id1168850804859"/>
+      <para id="id7293151">3.1.2 Trek -7<emphasis effect="italics">a</emphasis>² - 5<emphasis effect="italics">a</emphasis> + 8 af van 18<emphasis effect="italics">a</emphasis>² - 15</para>
+      <para id="id1168851736730"/>
+      <para id="id1168851201053"/>
+      <para id="id1168853156536"/>
+      <para id="id1168849910315">3.1.3 Verminder -15
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>² - 7
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> + 20 met -6
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>² + 76</para>
+      <para id="id1168853193036"/>
+      <para id="id1168853729888"/>
+      <para id="id1168859100502"/>
+      <para id="id1168850335962"> HUISWERKOPDRAG 1</para>
+      <para id="id1168850328844">1. Tel die volgende uitdrukkings bymekaar: -3<emphasis effect="italics">p</emphasis>² - 2<emphasis effect="italics">p</emphasis> - 5 <emphasis effect="bold">;</emphasis> 6<emphasis effect="italics">p</emphasis>² + 8 <emphasis effect="bold">;</emphasis> -15<emphasis effect="italics">p</emphasis> - 28</para>
+      <para id="id1168849004990"/>
+      <para id="id1168849858671"/>
+      <para id="id1168857069091"/>
+      <para id="id4349702">2. Trek -5<emphasis effect="italics">p</emphasis>² - 3<emphasis effect="italics">p</emphasis> af van 8 - 7<emphasis effect="italics">a</emphasis>²</para>
+      <para id="id1168848870913"/>
+      <para id="id1168849676817"/>
+      <para id="id1168852916546"/>
+      <para id="id3667267">3. Trek 6<emphasis effect="italics">a</emphasis> - 8<emphasis effect="italics">y </emphasis>af van 1</para>
+      <para id="id1168852983341"/>
+      <para id="id8395151"/>
+      <para id="id1168851262075"/>
+      <para id="id1168849325377">4. 3<emphasis effect="italics">a</emphasis><sup>3</sup> + 6<emphasis effect="italics">a</emphasis> - 7<emphasis effect="italics">a</emphasis> - 5 - 2(8<emphasis effect="italics">a</emphasis><sup>3</sup> - 4<emphasis effect="italics">a</emphasis>² + 17<emphasis effect="italics">a</emphasis> + 8) - 15<emphasis effect="italics">a</emphasis></para>
+      <para id="id1168852931817"/>
+      <para id="id7043721"/>
+      <para id="id1168849632016"/>
+      <para id="id1168850586404"/>
+      <para id="id1168852341951">5. Vermeerder 6p + 15y - 3a met -13y - 18p + 34 a</para>
+      <para id="id1168849835239"/>
+      <para id="id8474636"/>
+      <para id="id1168849644602"/>
+      <para id="id1168851457207">6. Hoeveel is -8<emphasis effect="italics">a</emphasis>² + 6<emphasis effect="italics">a</emphasis> groter as 15<emphasis effect="italics">a</emphasis>² + 3<emphasis effect="italics">a</emphasis> - 5 ?</para>
+      <para id="id1168849794238"/>
+      <para id="id1168852996034"/>
+      <para id="id1168850417566"><emphasis effect="italics">7. Hoeveel is 4a² - 5a</emphasis> + 1 kleiner as 16<emphasis effect="italics">a</emphasis>² + 3<emphasis effect="italics">a</emphasis> - 7?</para>
+      <para id="id1168850279213"/>
+      <para id="id6223479"/>
+      <para id="id3499552"/>
+      <para id="id1168861012093">8. Wat moet by 5<emphasis effect="italics">a</emphasis>² + 3<emphasis effect="italics">a</emphasis> getel word, om -3<emphasis effect="italics">a</emphasis> + 6, te kry?</para>
+      <para id="id1168861106067"/>
+      <para id="id6156133"/>
+      <para id="id2732177"/>
+      <table id="id8162310" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessering van myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">deur myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessering deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry>Ek kan…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Kritieke Uitkomste</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>gelyksoortige terme in 'n uitdrukking identifiseer; (Lu 2.8.1; 2.8.2)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kritiese en skeppende denke</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>gelyksoortige terme bymekaar tel; (Lu 2.8.2; 2.8.4)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Deelname</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>gelyksoortige terme van mekaar aftrek; (Lu 2.8.2; 2.8.4)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organisering en bestuur</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>heelgetalle optel en aftrek; (Lu 2.8.4)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Prosessering van inligting</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>'n reeks uitrukkings bymekaar tel; (Lu 2.8.2; 2.8.4; 2.8.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kommunikasie</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>'n reeks uitrukkings van mekaar aftrek. (Lu 2.8.2; 2.8.4; 2.8.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Probleemoplossing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Selfstandigheid</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168853316956">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">goed</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">gedeeltelik</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">nie goed nie</emphasis>
+      </para>
+      <table id="id1168849425815" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur die leerder:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan van aksie:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My punte:</entry>
+            </row>
+            <row>
+              <entry>Ek is besonder tevrede met die standaard van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Datum</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek is tevrede met die vordering van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Uit:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het hard gewerk, maar is nie tevrede met my prestasie nie.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Leerder</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het nie my beste gelewer nie.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1168860970874" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur ouers:</entry>
+              <entry/>
+              <entry>Kommentaar deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+              <entry/>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id3417732">
+      <title>Assessering</title>
+      <table id="id1168852987776" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 die historiese en kulturele ontwikkeling van getalle kan beskryf en illustreer;</entry>
+            </row>
+            <row>
+              <entry>1.2 die volgende getalle kan herken, klassifiseer en voorstel om hulle te beskryf en te vergelyk:1.2.3 getalle wat in eksponensiële vorm geskryf is, insluitend vierkante en derdemagte van natuurlike getalle en hul vierkants- en derdemagwortels;1.2.6 veelvoude en faktore;1.2.7 irrasionele getalle in die konteks van meting (bv. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> en vierkants- en derdemagwortels van nie-perfekte vierkante en derdemagte);</entry>
+            </row>
+            <row>
+              <entry>1.6 skat en bereken deur stappe te kies wat geskik is om probleme op te los wat die volgende behels:1.6.2 veelvoudige stappe met rasionale getalle (insluitend deling met breuke en desimale);1.6.3 eksponente.</entry>
+            </row>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel, en probleme op te los deur algebraïese taal en vaardighede te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 numeriese en geometriese patrone ondersoek en uitbrei om te soek vir verwantskappe of reëls, insluitend patrone wat:2.1.1 in fisiese of diagrammatiese vorm voorgestel is;2.1.2 nie beperk is tot reeks met konstante verskil of verhouding;2.1.3 in natuurlike en kulturele kontekste gevind word; 2.1.4 die leerder self geskep het;2.1.5 in tabelle weergegee word;2.1.6 algebraïes weergegee word;</entry>
+            </row>
+            <row>
+              <entry>2.2 waargenome verwantskappe of reëls in eie woorde of in algebra kan beskryf, verduidelik en verantwoord;</entry>
+            </row>
+            <row>
+              <entry>2.3 verwantskappe tussen veranderlikes voorstel en gebruik om op verskeie wyses inset- en/of uitset- waardes te bepaal deur gebruik te maak van:2.3.1 verbale beskrywings;2.3.2 vloeidiagramme;2.3.3 tabelle;2.3.4 formules en vergelykings;</entry>
+            </row>
+            <row>
+              <entry>2.4 wiskundige modelle bou wat oplossings vir probleemsituasies weergee, beskryf en verskaf, terwyl verantwoordelikheid teenoor die omgewing en gesondheid van ander getoon word (insluitende probleme die konteks van menseregte, sosiale ekonomiese, kulturele en omgewingskontekste);</entry>
+            </row>
+            <row>
+              <entry>2.7 die gelykwaardigheid van verskillende beskrywings van dieselfde verwantskap of reël wat soos volg voorgestel word kan bepaal, analiseer en interpreteer:2.7.1 verbaal;2.7.2 in vloeidiagramme;2.7.3 in tabelle;2.7.4 deur vergelykings of uitdrukkings om sodoende die mees bruikbare voorstelling vir ‘n gegewe situasie te kies;</entry>
+            </row>
+            <row>
+              <entry>2.8 konvensies van algebraïese noterings en die wisselbare, verenigbare en verspreibare wette kan gebruik om:2.8.1 terme soos gelyk en ongelyk te klassifiseer en om die klassifikasie te verantwoord;2.8.2 gelyke terme te versamel;2.8.3 ‘n algebraïese uitdrukking met een, twee of drie terme met ‘n eenterm te vermenigvuldig of deel;</entry>
+            </row>
+            <row>
+              <entry>2.8.4 algebraïese uitdrukkings wat in hakienotasie met een of twee stelle hakies en twee tipe bewerkings gegee word, te vereenvoudig;2.8.5 verskillende weergawes van algebraïese uitdrukkings met een of meer bewerkings te vergelyk en om dié wat ekwivalent is te selekteer en die keuse te motiveer;2.8.6 algebraïese uitdrukkings, formules of vergelykings binne konteks in eenvoudiger of meer bruikbare vorms te skryf;</entry>
+            </row>
+            <row>
+              <entry>2.9 die volgende algebra-woordeskat binne konteks kan interpreteer en gebruik: term, uitdrukking, koëffisiënt, eksponent (of indeks), basis, konstante, veranderlike, vergelyking, formule (of reël).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168857063623">
+      <title>Memorandum</title>
+      <para id="id1168853472562">KLASOPDRAG 1</para>
+      <list id="id1168852243748" list-type="bulleted">
+        <item>:-12</item>
+        <item>:5</item>
+        <item>:31</item>
+        <item>:18</item>
+        <item>:–5</item>
+      </list>
+      <list id="id1168851631063" list-type="bulleted">
+        <item>:4<emphasis effect="italics">a</emphasis></item>
+        <item>:10<emphasis effect="italics">a</emphasis> + 9<emphasis effect="italics">y</emphasis></item>
+      </list>
+      <list id="id3312917" list-type="bulleted">
+        <item>:-<emphasis effect="italics">a</emphasis> + 8<emphasis effect="italics">b</emphasis> – 38<emphasis effect="italics">c</emphasis></item>
+        <item>:–26<emphasis effect="italics">a</emphasis><sup>2</sup> – 16<emphasis effect="italics">a</emphasis> – 12<emphasis effect="italics">b</emphasis> – 10</item>
+      </list>
+      <list id="id1168850215528" list-type="bulleted">
+        <item>:-7<emphasis effect="italics">a</emphasis> + 3 – (6<emphasis effect="italics">a</emphasis> – 9)</item>
+      </list>
+      <para id="id1168857039059">= -7<emphasis effect="italics">a</emphasis> +3 – 6<emphasis effect="italics">a</emphasis> + 9</para>
+      <para id="id1168850424932">= -13<emphasis effect="italics">a</emphasis> + 12</para>
+      <list id="id1168852910147" list-type="bulleted">
+        <item>:18<emphasis effect="italics">a</emphasis><sup>2</sup> – 15 – (-7<emphasis effect="italics">a</emphasis><sup>2</sup> – 5<emphasis effect="italics">a</emphasis> + 8)</item>
+      </list>
+      <para id="id5752672">= 18<emphasis effect="italics">a</emphasis><sup>2</sup> – 15 + -7<emphasis effect="italics">a</emphasis><sup>2</sup> + 5<emphasis effect="italics">a</emphasis> – 8</para>
+      <para id="id1168852900899">= 25<emphasis effect="italics">a</emphasis><sup>2</sup> + 5<emphasis effect="italics">a</emphasis> – 23</para>
+      <list id="id1168853259890" list-type="bulleted">
+        <item>:-15<emphasis effect="italics">x</emphasis><sup>2</sup> – 7<emphasis effect="italics">x</emphasis> + 20 – (-6<emphasis effect="italics">x</emphasis><sup>2</sup> + 76)</item>
+      </list>
+      <para id="id1168853123332">= -15<emphasis effect="italics">x</emphasis><sup>2</sup> – 7<emphasis effect="italics">x</emphasis> + 20 + -6<emphasis effect="italics">x</emphasis><sup>2</sup> – 76</para>
+      <para id="id1168852723601">= -9<emphasis effect="italics">x</emphasis><sup>2</sup> – 7<emphasis effect="italics">x</emphasis> – 56</para>
+      <section id="id1042160">
+        <title>HUISWERKOPDRAG 1</title>
+        <para id="id1168850308890">1. 3<emphasis effect="italics">p</emphasis><sup>2</sup> – 17<emphasis effect="italics">p</emphasis> – 25</para>
+        <para id="id1168849891810">2. 8 – 7<emphasis effect="italics">a</emphasis><sup>2</sup> – (-5<emphasis effect="italics">p</emphasis><sup>2</sup> – 3<emphasis effect="italics">p</emphasis>)</para>
+        <para id="id1168861202541"> = 8 – 7<emphasis effect="italics">a</emphasis><sup>2</sup> + 5<emphasis effect="italics">p</emphasis><sup>2</sup> + 3<emphasis effect="italics">p</emphasis>)</para>
+        <para id="id3654212"> -2<emphasis effect="italics">a</emphasis><sup>2</sup> + 3<emphasis effect="italics">p</emphasis> + 8</para>
+        <para id="id1168851026546">3. 1 – (6<emphasis effect="italics">a</emphasis> – 8<emphasis effect="italics">y</emphasis>) = 1 – 6<emphasis effect="italics">a</emphasis> + 8<emphasis effect="italics">y</emphasis></para>
+        <para id="id7070041">4. 3<emphasis effect="italics">a</emphasis><sup>3</sup> + 6<emphasis effect="italics">a</emphasis> – 7<emphasis effect="italics">a</emphasis> – 5 – 16<emphasis effect="italics">a</emphasis><sup>3</sup> + 8<emphasis effect="italics">a</emphasis><sup>2</sup> – 34<emphasis effect="italics">a</emphasis> – 16 – 15<emphasis effect="italics">a</emphasis></para>
+        <para id="id8093444"> = -13<emphasis effect="italics">a</emphasis><sup>3</sup> + 8<emphasis effect="italics">a</emphasis><sup>2</sup> – 50<emphasis effect="italics">a</emphasis> – 21</para>
+        <para id="id3469330">5. 24<emphasis effect="italics">p</emphasis> + 28<emphasis effect="italics">y</emphasis> – 37<emphasis effect="italics">a</emphasis></para>
+        <para id="id1168850797841">6. -23<emphasis effect="italics">a</emphasis><sup>2</sup> + 3<emphasis effect="italics">a</emphasis> + 5</para>
+        <para id="id1168853215853">7. 12<emphasis effect="italics">a</emphasis><sup>2</sup> + 8<emphasis effect="italics">a</emphasis> – 8</para>
+        <para id="id1168849903529">8. -6<emphasis effect="italics">a</emphasis> + 6 – 5<emphasis effect="italics">a</emphasis><sup>2</sup></para>
+      </section>
+    </section>
+  </content>
+</document>

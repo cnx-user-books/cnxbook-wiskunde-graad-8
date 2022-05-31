@@ -1,0 +1,691 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Verskillende soorte getalle</title>
+  <metadata>
+  <md:content-id>m31000</md:content-id><md:title>Verskillende soorte getalle</md:title>
+  <md:abstract/>
+  <md:uuid>b8a402e1-0898-4640-a861-2a36c6f033d6</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168815755767">
+      <title>WISKUNDE</title>
+      <para id="para-id1168815755767">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168815833526">
+      <title>Graad 8</title>
+      <para id="para-id1168815833526">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168817910483">
+      <title>GETALLESTELSEL</title>
+      <para id="para-id1168817910483">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168817606796">
+      <title>(Natuurlike- en telgetalle)</title>
+      <para id="para-id1168817606796">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168814804695">
+      <title>Module 1</title>
+      <para id="para-id1168814804695">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168819844980">
+      <title>VERSKILLENDE SOORTE GETALLE</title>
+      <para id="id1168816307060">KLASOPDRAG </para>
+      <list id="id1168814802369" list-type="bulleted">
+        <item>Kom ontdek stap vir stap meer oor die getallestelsel....</item>
+      </list>
+      <para id="id7389222">1. Algemeen: Verskillende soorte getalle</para>
+      <para id="id1168814188921">Gee voorbeelde van elk van die volgende getalle:</para>
+      <list id="id1168814136973" list-type="bulleted">
+        <item>Natuurlike getalle  N = {..................................................}</item>
+      </list>
+      <list id="id1168814167119" list-type="bulleted">
+        <item>Telgetalle N<sub>0</sub> = {..................................................}</item>
+      </list>
+      <list id="id1168817634725" list-type="bulleted">
+        <item>Heelgetalle Z+ = {..................................................}</item>
+      </list>
+      <para id="id1168814186452"> Z-  = {..................................................}</para>
+      <list id="id1168814094939" list-type="bulleted">
+        <item>Rasionale getalle Q = {..................................................}</item>
+      </list>
+      <list id="id1168814793270" list-type="bulleted">
+        <item>Irrasionale getalle Q’ = {..................................................}</item>
+      </list>
+      <list id="id1168814663270" list-type="bulleted">
+        <item>Reële getalle R = {..................................................}</item>
+      </list>
+      <para id="id1168814794369">2. Natuurlike getalle</para>
+      <table id="id1168814296399" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Priemgetalle ={..................................................}</entry>
+              <entry>Saamgestelde getalle ={..................................................}</entry>
+            </row>
+            <row>
+              <entry>Definisie: .........................................................................................…………..................................................…………..................................................…………..........</entry>
+              <entry>Definisie: .................................................................…………..........................................................................…………..................................................…………..........</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168815769519">Priemgetalle + Saamgestelde getalle = Natuurlike getalle</para>
+      <para id="id1168814770576">3. Deelbaarheidsreëls</para>
+      <para id="id1168814085108">Kies elke keer ‘n getal wat deelbaar is deur die gegewe deler en probeer ‘n reël by elke geval aflei.</para>
+      <table id="id1168814887801" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Getal</entry>
+              <entry>Deler</entry>
+              <entry>Deelbaarheidsreël</entry>
+            </row>
+            <row>
+              <entry>3.1</entry>
+              <entry/>
+              <entry>2</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.2</entry>
+              <entry/>
+              <entry>3</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.3</entry>
+              <entry/>
+              <entry>4</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.4</entry>
+              <entry/>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.5</entry>
+              <entry/>
+              <entry>6</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.6</entry>
+              <entry/>
+              <entry>8</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.7</entry>
+              <entry/>
+              <entry>9</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.8</entry>
+              <entry/>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.9</entry>
+              <entry/>
+              <entry>11</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168818549359">4. Bepaal deur watter getalle (3.1 - 3.9) 61 226 deelbaar is, en gee ‘n rede by elk.</para>
+      <para id="id1168814171981"/>
+      <para id="id1168815972618"/>
+      <para id="id1168820685937"/>
+      <para id="id1168814158207">5. Wat verstaan jy onder elk van die volgende terme:</para>
+      <para id="id1168817720623">5.1 Veelvoud:</para>
+      <para id="id1168817937694"/>
+      <para id="id1168814141653"/>
+      <para id="id1168814794055">5.2 Faktor:</para>
+      <para id="id1168814802583"/>
+      <para id="id1168819706435"/>
+      <para id="id1168820735112">5.3 Priemgetal:</para>
+      <para id="id1168815681039"/>
+      <para id="id1168814162316"/>
+      <para id="id1168814138916"/>
+      <para id="id1168816993655">5.4 Priemfaktor:</para>
+      <para id="id1168814154345"/>
+      <para id="id1168817976197"/>
+      <para id="id1168815770443">5.5 Ewe getalle en onewe getalle:</para>
+      <para id="id1168817097782"/>
+      <para id="id1168814155411"/>
+      <para id="id1168815572729"/>
+      <list id="id1168817876591" list-type="bulleted">
+        <item>Hoe bepaal jy die faktore van ‘n getal? Kyk ‘n bietjie.....bv. F<sub>24</sub> = {1; 2; 3; 4; 6; 8; 12; 24} 1 x 24; 2 x 12; 3 x 8; 4 x 6</item>
+      </list>
+      <para id="id1168814708275">6. Bepaal die faktore van 48.</para>
+      <para id="id1168824340026"/>
+      <para id="id1168817910962"/>
+      <para id="id1168814718568"/>
+      <para id="id1168815791583">7.<emphasis effect="bold"/>Skryf al die veelvoude van 6 tussen 23 en 56 neer.</para>
+      <para id="id1168814167665"/>
+      <para id="id1168814570872">8. Bepaal die priemgetalle tussen 17 en 78.</para>
+      <para id="id1168815667605"/>
+      <para id="id1168814787587">9 Bepaal alle onewe saamgestelde getalle tussen 16 en 50.</para>
+      <para id="id1168814140438"/>
+      <para id="id1168814814216">10 Skryf al die faktore van 50, wat priemgetalle is, neer.</para>
+      <para id="id1168818454187"/>
+      <para id="id1168820058578"/>
+      <para id="id1168814805977"/>
+      <para id="id7739700">11. Skryf al die faktore van 50, wat saamgestelde getalle is, neer.</para>
+      <para id="id1168814295781"/>
+      <para id="id1168815774097"/>
+      <para id="id1168819920702"/>
+      <para id="id1168814799223">12. Verklaar: Kubusgetalle. Skryf die eerste ses kubusgetalle neer.</para>
+      <para id="id1168820405462"/>
+      <para id="id1168814186814"/>
+      <para id="id1168819624064"/>
+      <para id="id1168818670459">13. Verklaar: Vierkantgetalle. Skryf die eerste tien vierkantgetalle neer.</para>
+      <para id="id1168820903024"/>
+      <para id="id1168817588862"/>
+      <para id="id1168814726817"/>
+      <para id="id1168819717141"> HUISWERKOPDRAG </para>
+      <para id="id1168817099862">1. Gee die definisie van elk van die volgende:</para>
+      <para id="id1168813273342">1.1 Rasionale getal:</para>
+      <para id="id1168814100800"/>
+      <para id="id1168815121276">1.2 Priemgetal:</para>
+      <para id="id1168814744168"/>
+      <para id="id1168814152292">1.3 Saamgestelde getalle:</para>
+      <para id="id1168817174801"/>
+      <para id="id1168814620927">1.4 Priemfaktore:</para>
+      <para id="id1168814873773"/>
+      <para id="id1168814178758">2. Kies uit {0; 1; 2; 3; 4; ... ; 36} en skryf neer:</para>
+      <para id="id1168817607256">2.1 Eerste twee saamgestelde getalle</para>
+      <para id="id1168815009326"/>
+      <para id="id1168817678395">2.2 Onewe getalle wat nie priemgetalle is nie</para>
+      <para id="id1168814799474"/>
+      <para id="id1168814189888">2.3 Veelvoude van 6</para>
+      <para id="id1168814778015"/>
+      <para id="id1168824205686">2.4 Faktore van 12</para>
+      <para id="id1168814177662"/>
+      <para id="id4858043">2.5 Priemfaktore van 12</para>
+      <para id="id5498296"/>
+      <para id="id1168820112360">2.6 Faktore van 36</para>
+      <para id="id1168818504225"/>
+      <para id="id1168815374537">3. Watter van die volgende getalle -<sup>9</sup>/<sub>3</sub>; <sup>7</sup>/<sub>0</sub>; 0; 3; -9; 16; 2 <sup>1</sup>/<sub>3</sub> is:</para>
+      <para id="id1168815121356">3.1 Telgetalle?</para>
+      <para id="id1168814708404"/>
+      <para id="id1168814099156">3.2 Rasionale getalle?</para>
+      <para id="id1168814795972"/>
+      <para id="id1168814276754">3.3 Nie-reële getalle?</para>
+      <para id="id1168814802297"/>
+      <para id="id1168820497510">4. Tabelleer die volgende:</para>
+      <para id="id1168823041888">4.1 Natuurlike getalle &lt; 5 ...........................................................................</para>
+      <para id="id1168815009007">4.2 Priemgetalle &lt; 10 ...........................................................................</para>
+      <para id="id8702334">4.3 Eerste vier veelvoude van 12 ...........................................................................</para>
+      <para id="id1168814568689">4.4 Eerste vier vierkantgetalle ...........................................................................</para>
+      <para id="id1168814574162"><emphasis effect="bold"> L</emphasis>e<emphasis effect="underline">ereenhei</emphasis>d <emphasis effect="bold">1 </emphasis><emphasis effect="bold">Assessering 1.1</emphasis></para>
+      <table id="id1168814288081" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessering van myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">deur myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessering deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry>Ek kan…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Kritieke Uitkomste</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>voorbeelde gee van verskillende soorte getalle; (Lu 1.1)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kritiese en skeppende denke</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>priemgetalle se definisie gee; (Lu 1.1)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Deelname</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>saamgestelde getalle se definisie gee; (Lu 1.1)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organisering en bestuur</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>deelbaarheidsreëls toepas; (Lu 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Prosessering van inligting</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>veelvoude van ’n getal bepaal; (Lu 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kommunikasie</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>faktore van ’n getal bepaal; (Lu 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Probleemoplossing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>priemgetalle en priemfaktore maklik bepaal; (Lu 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Selfstandigheid</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>ewe- en onewe getalle maklik bepaal. (Lu 1.1)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168814774095">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">goed</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">gedeeltelik</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">nie goed nie</emphasis>
+      </para>
+      <table id="id1168813273771" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur die leerder:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan van aksie:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My punte:</entry>
+            </row>
+            <row>
+              <entry>Ek is besonder tevrede met die standaard van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Datum</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek is tevrede met die vordering van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Uit:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het hard gewerk, maar is nie tevrede met my prestasie nie.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Leerder</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het nie my beste gelewer nie.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id8032192" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur ouers:</entry>
+              <entry/>
+              <entry>Kommentaar deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+              <entry/>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168814108190">
+      <title>Assessering</title>
+      <table id="id1168817999448" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 die historiese en kulturele ontwikkeling van getalle kan beskryf en illustreer;</entry>
+            </row>
+            <row>
+              <entry>1.2 die volgende getalle kan herken, klassifiseer en voorstel om hulle te beskryf en te vergelyk:1.2.3 getalle wat in eksponensiële vorm geskryf is, insluitend vierkante en derdemagte van natuurlike getalle en hul vierkants- en derdemagwortels;1.2.6 veelvoude en faktore;1.2.7 irrasionele getalle in die konteks van meting (bv. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> en vierkants- en derdemagwortels van nie-perfekte vierkante en derdemagte);</entry>
+            </row>
+            <row>
+              <entry>1.6 skat en bereken deur stappe te kies wat geskik is om probleme op te los wat die volgende behels:1.6.2 veelvoudige stappe met rasionale getalle (insluitend deling met breuke en desimale);1.6.3 eksponente.</entry>
+            </row>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel, en probleme op te los deur algebraïese taal en vaardighede te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 numeriese en geometriese patrone ondersoek en uitbrei om te soek vir verwantskappe of reëls, insluitend patrone wat:2.1.1 in fisiese of diagrammatiese vorm voorgestel is;2.1.2 nie beperk is tot reeks met konstante verskil of verhouding;2.1.3 in natuurlike en kulturele kontekste gevind word; 2.1.4 die leerder self geskep het;2.1.5 in tabelle weergegee word;2.1.6 algebraïes weergegee word;</entry>
+            </row>
+            <row>
+              <entry>2.2 waargenome verwantskappe of reëls in eie woorde of in algebra kan beskryf, verduidelik en verantwoord;</entry>
+            </row>
+            <row>
+              <entry>2.3 verwantskappe tussen veranderlikes voorstel en gebruik om op verskeie wyses inset- en/of uitset- waardes te bepaal deur gebruik te maak van:2.3.1 verbale beskrywings;2.3.2 vloeidiagramme;2.3.3 tabelle;2.3.4 formules en vergelykings;</entry>
+            </row>
+            <row>
+              <entry>2.4 wiskundige modelle bou wat oplossings vir probleemsituasies weergee, beskryf en verskaf, terwyl verantwoordelikheid teenoor die omgewing en gesondheid van ander getoon word (insluitende probleme die konteks van menseregte, sosiale ekonomiese, kulturele en omgewingskontekste);</entry>
+            </row>
+            <row>
+              <entry>2.7 die gelykwaardigheid van verskillende beskrywings van dieselfde verwantskap of reël wat soos volg voorgestel word kan bepaal, analiseer en interpreteer:2.7.1 verbaal;2.7.2 in vloeidiagramme;2.7.3 in tabelle;2.7.4 deur vergelykings of uitdrukkings om sodoende die mees bruikbare voorstelling vir ‘n gegewe situasie te kies;</entry>
+            </row>
+            <row>
+              <entry>2.8 konvensies van algebraïese noterings en die wisselbare, verenigbare en verspreibare wette kan gebruik om:2.8.1 terme soos gelyk en ongelyk te klassifiseer en om die klassifikasie te verantwoord;2.8.2 gelyke terme te versamel;2.8.3 ‘n algebraïese uitdrukking met een, twee of drie terme met ‘n eenterm te vermenigvuldig of deel;</entry>
+            </row>
+            <row>
+              <entry>2.8.4 algebraïese uitdrukkings wat in hakienotasie met een of twee stelle hakies en twee tipe bewerkings gegee word, te vereenvoudig;2.8.5 verskillende weergawes van algebraïese uitdrukkings met een of meer bewerkings te vergelyk en om dié wat ekwivalent is te selekteer en die keuse te motiveer;2.8.6 algebraïese uitdrukkings, formules of vergelykings binne konteks in eenvoudiger of meer bruikbare vorms te skryf;</entry>
+            </row>
+            <row>
+              <entry>2.9 die volgende algebra-woordeskat binne konteks kan interpreteer en gebruik: term, uitdrukking, koëffisiënt, eksponent (of indeks), basis, konstante, veranderlike, vergelyking, formule (of reël).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168814292165">
+      <title>Memorandum</title>
+      <para id="id1168814087858">KLASOPDRAG </para>
+      <para id="id1168814663416">2. {2, 3, 5, 7, . . . }</para>
+      <para id="id1168814787730"> Twee faktore: 1 en homself </para>
+      <para id="id1168820096125">{4, 6, 8, 9, . . . }</para>
+      <para id="id1168815348605">Meer as twee faktore </para>
+      <list id="id1168820015495" list-type="bulleted">
+        <item>Eie keuse: Eindig in gelyke getalle </item>
+        <item>Som van al die getalle ÷ 3</item>
+        <item>Laaste twee getalle ÷ 4: bv. 84 ÷ 4 = 21</item>
+        <item>Eindig in 0 / 5</item>
+        <item>Deelbaar deur 2 en 3 </item>
+        <item>Last 3 numbers ÷ 8: bv.  3 720 ÷ 8 = 90 / Laaste 3 getalle ÷ 8</item>
+        <item>Tel al die getalle op ÷ 9</item>
+        <item>Eindig op 0</item>
+        <item>bv. 2 6 8  </item>
+      </list>
+      <para id="id1168814140682">2 + 8 = 10 </para>
+      <para id="id6141089">10 – 10 = 0</para>
+      <para id="id1168814275848">0 ÷ 11 = 0,   </para>
+      <para id="id1168816431216">4 + 6 = 10</para>
+      <para id="id1168818032753">4. 2; 3; 4; 5; 6; 7; 8; 9; 10; 11</para>
+      <para id="id7494048"> √ × × × × × × × × √</para>
+      <list id="id1168815805524" list-type="bulleted">
+        <item>Tel vorentoe, bv. in 3’e: Getal ÷ 3 </item>
+        <item>Getal wat in ander getal gedeel kan word </item>
+        <item>Getalle met 2 faktore: 1 en homself </item>
+        <item>Priemgetal wat in ander getal gedeel kan word </item>
+        <item>Gelyk: (Eindig in gelyke getalle) [deelbaar deur 3] </item>
+      </list>
+      <para id="id1168814787405">Ongelyk: (Nie deelbaar deur 2 nie) </para>
+      <para id="id1168815350639">6. F48 = {1, 2, 3, 4, 6, 8, 12, 16, 24, 48}</para>
+      <para id="id1168822291802">7. {24, 30, 36, 42, 48, 54}</para>
+      <para id="id1168815972504">8. {19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73}</para>
+      <para id="id6138480">9. {21, 25, 27, 33, 35, 39, 45, 49}</para>
+      <para id="id1168821711379">10. {2, 5}</para>
+      <para id="id8106199">11. {10, 25, 50}</para>
+      <para id="id1168815043142">12. <emphasis effect="italics">x</emphasis>³ (getal)³: 1, 8, 27, 64, 125, 216</para>
+      <para id="id1168817964508">13. <emphasis effect="italics">x</emphasis>² (getal)²: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100</para>
+      <section id="id1168814771113">
+        <title>HUISWERKOPDRAG </title>
+        <para id="id1168814186993">1.1 <!--Sorry, this media type is not supported.-->, <emphasis effect="italics">b</emphasis> ≠ 0 (Desimaal: herhalend of eindig) </para>
+        <list id="id1168814296608" list-type="bulleted">
+          <item>Getal met faktore: 1 en himself </item>
+          <item>Getal met meer as twee faktore </item>
+          <item>Priemgetal wat in ‘n getal kan indeel </item>
+        </list>
+        <list id="id1168818667851" list-type="bulleted">
+          <item>:4, 6</item>
+          <item>:1, 9, 15, 21, 25, 27, 33, 35</item>
+          <item>:6, 12, 18, 24, 30, 36</item>
+          <item>:1, 2, 3, 4, 6, 12</item>
+          <item>:2, 3</item>
+          <item>:1, 2, 3, 4, 6, 9, 12, 18, 36</item>
+        </list>
+        <list id="id1168817174948" list-type="bulleted">
+          <item>:-<!--Sorry, this media type is not supported.-->, 0, 3, -9, 16</item>
+          <item>:-<!--Sorry, this media type is not supported.-->, 0, 3 -9, 16, 2<!--Sorry, this media type is not supported.--></item>
+          <item>:<!--Sorry, this media type is not supported.--></item>
+        </list>
+        <list id="id1168815774082" list-type="bulleted">
+          <item>:1, 2, 3, 4</item>
+          <item>:2, 3, 5, 7</item>
+          <item>:12, 24, 36, 48</item>
+          <item>:1, 4, 9, 16</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

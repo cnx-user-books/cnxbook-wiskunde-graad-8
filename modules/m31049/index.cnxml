@@ -1,0 +1,307 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Klassifikasie, meet en konstruksie van hoeke</title>
+  <metadata>
+  <md:content-id>m31049</md:content-id><md:title>Klassifikasie, meet en konstruksie van hoeke</md:title>
+  <md:abstract/>
+  <md:uuid>35ab2891-0d6f-4e08-809b-d16a9c925d94</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172184324742">
+      <title>WISKUNDE</title>
+      <para id="para-id1172184324742">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172180384069">
+      <title>Graad 8 </title>
+      <para id="para-id1172180384069">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172184024789">
+      <title>HEELGETALLE, VERGELYKINGS EN MEETKUNDE</title>
+      <para id="para-id1172184024789">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8230803">
+      <title>Module 9</title>
+      <para id="para-id8230803">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172184228284">
+      <title>KLASSIFIKASIE, MEET EN KOSTRUKSIE VAN HOEKE</title>
+      <para id="id1172185334045">KLASOPDRAG 1 </para>
+      <list id="id1172183907358" list-type="bulleted">
+        <item>Kom ontdek stap vir stap meer omtrent ... Meetkunde ....klassifikasie van hoeke, meet - en konstruksie van hoeke.</item>
+      </list>
+      <para id="id1172184346735">1. Hoe konstrueer (teken) jy enige hoekgrootte?</para>
+      <para id="id1172184953081">Om dit te kan doen, het jy die volgende nodig: </para>
+      <para id="id1172184093583">passer, gradeboog en liniaal</para>
+      <para id="id1172184225094">Algemeen: Konstruksie van bv. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A { hat  {B}}C} {}</m:annotation></m:semantics></m:math> = 60°</para>
+      <list id="id1172184211446" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Begin deur ’n lyn te trek.</item>
+      </list>
+      <para id="id1172183906234">________________________________</para>
+      <list id="id1172181851455" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Maak ’n merkie op die lyn.</item>
+      </list>
+      <para id="id1172183845000">______I________________________</para>
+      <para id="id1172184946608">c) Sit jou gradeboog se merkie in die middel op jou merkie.</para>
+      <para id="id1172185332306">d) Lees van 0° aan die regterkant tot by die verlangde grade.</para>
+      <para id="id8241038">
+        <figure id="id8912385">
+          <media id="id8912385_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 119.png" id="id8912385__onlineimage" height="115" width="295"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id3310002">e) Benoem jou hoek korrek. [bv. <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A { hat  {B}}C} {}</m:annotation></m:semantics></m:math></emphasis> = 60° of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}} rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math> = 60° ]</para>
+      <para id="id1172184010193">2. Hoe sal jy te werk gaan om ’n hoek van bv. 330° te konstrueer asdie gradeboog slegs hoekgroottes tot en met 180° kan meet?Skryf jou plan hier neer:</para>
+      <para id="id8230731"/>
+      <para id="id3310158"/>
+      <para id="id1172180454977">3. Konstrueer nou die volgende hoeke, klassifiseer elk en dui die grense van grade aan. Bv. <emphasis effect="bold">60° -- skerphoeke (klassifikasie) --- 0° &lt; </emphasis><emphasis effect="italics">x</emphasis><emphasis effect="bold"> &lt; 90° (grense van °)</emphasis>Grense van ° word as volg gelees: <emphasis effect="italics">x</emphasis> groter as 0° en kleiner as 90°</para>
+      <table id="id8230372" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Hoek</entry>
+              <entry>Skets</entry>
+              <entry>Klassifikasie(soort hoek)</entry>
+              <entry>Grense van °</entry>
+            </row>
+            <row>
+              <entry>3.1</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mover accent="true"><m:mi>Q</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>R</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P { hat  {Q}}R} {}</m:annotation></m:semantics></m:math> = 75°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.2</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A { hat  {B}}C} {}</m:annotation></m:semantics></m:math> = 125°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.3</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>H</m:mi><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>G</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H { hat  {F}}G} {}</m:annotation></m:semantics></m:math> = 325°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.4</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mover accent="true"><m:mi>D</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>E</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C { hat  {D}}E} {}</m:annotation></m:semantics></m:math> = 180°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.5</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>K</m:mi><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>M</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K { hat  {L}}M} {}</m:annotation></m:semantics></m:math> = 90°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.6</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>R</m:mi><m:mover accent="true"><m:mi>S</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>T</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R { hat  {S}}T} {}</m:annotation></m:semantics></m:math> = 360°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172180749845"> HUISWERKOPDRAG 1 en 2</para>
+      <list id="id1172184253496" list-type="enumerated" number-style="arabic">
+        <item>Daar is hoeke oral rondom jou ....Bepaal die grootte van elk van die aangeduide hoeke (m.b.v. jou gradeboog),skryf die grootte by die spesifiek hoek neer enklassifiseer die hoeke.</item>
+      </list>
+      <para id="id1172180305904"><figure id="id1172180706004"><media id="id1172180706004_media" alt=""><image mime-type="image/png" src="../../media/graphics1-eb6f.png" id="id1172180706004__onlineimage" height="198" width="259"/></media></figure>1.1</para>
+      <para id="id1172180729230"><figure id="id1172184244762"><media id="id1172184244762_media" alt=""><image mime-type="image/png" src="../../media/graphics2-f91c.png" id="id1172184244762__onlineimage" height="164" width="271"/></media></figure>1.2</para>
+      <para id="id1172184328916">1.3</para>
+      <figure id="id1172181005027">
+        <media id="id1172181005027_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-14a0.png" id="id1172181005027__onlineimage" height="203" width="148"/>
+        </media>
+      </figure>
+      <para id="id8292180">1.4</para>
+      <figure id="id8236844">
+        <media id="id8236844_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-97a7.png" id="id8236844__onlineimage" height="310" width="328"/>
+        </media>
+      </figure>
+      <para id="id1172184329661">1.5</para>
+      <figure id="id1172180436466">
+        <media id="id1172180436466_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-24fb.png" id="id1172180436466__onlineimage" height="242" width="230"/>
+        </media>
+      </figure>
+      <para id="id1172184966442">1.6</para>
+      <figure id="id1172180673780">
+        <media id="id1172180673780_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-56a4.png" id="id1172180673780__onlineimage" height="152" width="152"/>
+        </media>
+      </figure>
+      <para id="id8258579"/>
+      <para id="id1172184227813">1.7</para>
+      <figure id="id1172181589523">
+        <media id="id1172181589523_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7-554b.png" id="id1172181589523__onlineimage" height="170" width="352"/>
+        </media>
+      </figure>
+      <para id="id1172181696402">1.8</para>
+      <figure id="id1172184254701">
+        <media id="id1172184254701_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8-28de.png" id="id1172184254701__onlineimage" height="144" width="172"/>
+        </media>
+      </figure>
+      <para id="id1172184004101"><figure id="id1172183905862"><media id="id1172183905862_media" alt=""><image mime-type="image/png" src="../../media/graphics9-9b1a.png" id="id1172183905862__onlineimage" height="142" width="150"/></media></figure>1.9</para>
+      <para id="id3310071"><figure id="id1172184346938"><media id="id1172184346938_media" alt=""><image mime-type="image/png" src="../../media/graphics10-259b.png" id="id1172184346938__onlineimage" height="272" width="380"/></media></figure>1.10</para>
+      <para id="id1172184254263"/>
+      <para id="id1172181895175">1.11</para>
+      <figure id="id1172180246438">
+        <media id="id1172180246438_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics11-983b.png" id="id1172180246438__onlineimage" height="242" width="163"/>
+        </media>
+      </figure>
+      <para id="id1172183842510">1.12</para>
+      <figure id="id1172184026588">
+        <media id="id1172184026588_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics12-92be.png" id="id1172184026588__onlineimage" height="234" width="232"/>
+        </media>
+      </figure>
+      <para id="id1172184325101">1.13</para>
+      <figure id="id8230496">
+        <media id="id8230496_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics13.png" id="id8230496__onlineimage" height="176" width="236"/>
+        </media>
+      </figure>
+      <para id="id1172180279638">1.14</para>
+      <figure id="id1172180351836">
+        <media id="id1172180351836_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics14.png" id="id1172180351836__onlineimage" height="185" width="306"/>
+        </media>
+      </figure>
+      <para id="id1172180387065">1.15</para>
+      <figure id="id1172180496971">
+        <media id="id1172180496971_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics15.png" id="id1172180496971__onlineimage" height="274" width="230"/>
+        </media>
+      </figure>
+      <para id="id1172180363786"/>
+      <para id="id1172184264749">1.16</para>
+      <figure id="id8277993">
+        <media id="id8277993_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics16.png" id="id8277993__onlineimage" height="320" width="235"/>
+        </media>
+      </figure>
+      <para id="id1172184946551">2. Konstrueer die volgende hoeke deur van jou liniaal en gradeboog gebruik te maak.</para>
+      <para id="id1172184982937">2.1 ’n Horlosie met ’n hoek van 45° tussen die twee syfers.</para>
+      <para id="id1172183909807">2.2 ’n Sonbed met ’n hoek van 160°</para>
+      <para id="id1172181771168">2.3 ’n Helikopter wat teen ’n hoek van 35° met horisontaal daal.</para>
+      <para id="id1172184941912">2.4 ’n Leeslamp met hoeke 115° en 65°</para>
+    </section>
+    <section id="id1172185319814">
+      <title>Assessering</title>
+      <table id="id8880662" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 3 </entry>
+            </row>
+            <row>
+              <entry>Ruimte en Vorm (Meetkunde)Die leerder is in staat om eienskappe van en verwantskappe tussen twee- dimensionele vorms en drie-dimensionele voorwerpe in ’n verskeidenheid oriënta-sies en posisies te beskryf en voor te stel.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>3.2 in kontekste insluitend sodaniges wat gebruik word om sosiale-, kulturele- en omgewingsbewustheid aan te kweek, meetkundige figure in terme van kenmerke beskryf en klassifiseer, insluitend:3.2.1 sye, hoeke en diagonale (hoeklyne) en hulle verwantskappe, met die klem op driehoeke en vierhoeke (bv. soorte driehoeke en vierhoeke);3.3 woordeskat gebruik om parallelle te beskryf wat deur ‘n dwarslyn, loodlyne en snylyne gekruis word, asook driehoeke na aanleiding van hoekverwantskappe (bv. vertikaal teenoorstaande, ooreenkomstig).</entry>
+            </row>
+            <row>
+              <entry>LU 4 </entry>
+            </row>
+            <row>
+              <entry>MetingDie leerder is in staat om gepaste meeteenhede, -instrumente en formules in ’n verskeidenheid kontekste te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>4.7 hoeke met behulp van ’n gradeboog akkuraat tot een graad kan skat, vergelyk, meet en teken.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1172180886270">
+      <title>Memorandum</title>
+      <para id="id1172184186605">KLASWERKOPDRAG 1</para>
+      <para id="id1172181768890">2. 360<sup>0</sup> – 330<sup>0</sup> = 30<sup>0</sup></para>
+      <para id="id8899005"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math> Konstrueer 30<sup>0</sup></para>
+      <list id="id1172184331489" list-type="bulleted">
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Skerphoek   0<sup>0</sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> Q 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> 90<sup>0</sup></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Stomphoek   90<sup>0</sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">B</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> 180<sup>0</sup></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Reflexangle   180<sup>0</sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> F 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> 360<sup>0</sup></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Gestrekte hoek  D = 180<sup>0</sup></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Regtehoek   L = 90<sup>0</sup></item>
+        <item>Omwentelingshoek  S = 360<sup>0</sup></item>
+      </list>
+      <section id="id1172180260685">
+        <title>HUISWERKOPDRAG 1 EN 2</title>
+        <list id="id1172181620091" list-type="bulleted">
+          <item>Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Stomphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Stomphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Inspringendehoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Stomphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Inspringende hoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Stomphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Stomphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> en Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Stomphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> en Skerphoek 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

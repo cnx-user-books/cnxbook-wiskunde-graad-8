@@ -1,0 +1,692 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Vermenigvuldiging in algebra</title>
+  <metadata>
+  <md:content-id>m31023</md:content-id><md:title>Vermenigvuldiging in algebra</md:title>
+  <md:abstract/>
+  <md:uuid>a69ca33c-f013-4d21-b414-7d4e3c414d07</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168849880152">
+      <title>WISKUNDE</title>
+      <para id="para-id1168849880152">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168850246172">
+      <title>Graad 8</title>
+      <para id="para-id1168850246172">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168857202451">
+      <title>GETALLESTELSEL</title>
+      <para id="para-id1168857202451">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168854096116">
+      <title>(Natuurlike- en telgetalle)</title>
+      <para id="para-id1168854096116">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5147316">
+      <title>Module 5</title>
+      <para id="para-id5147316">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168855373359">
+      <title>VERMENIGVULDIGING IN ALGEBRA</title>
+      <para id="id8537235">KLASOPDRAG 1 </para>
+      <list id="id1168850234059" list-type="bulleted">
+        <item>Kom ontdek stap vir stap meer omtrent VERMENIGVULDIGING in ALGEBRA….</item>
+      </list>
+      <para id="id1168851614875">1.<emphasis effect="bold"/>Waaraan sal die volgende gelyk wees aan? .....</para>
+      <para id="id1168852838070">1.1: 2 x 2 x 2 = ......................... (en in eksponensiële vorm? ......................... )</para>
+      <para id="id3269618">1.2: 2² x 2² x 2<sup>3</sup> x 3² x 3<sup>3 </sup>= .........................</para>
+      <para id="id1168850323566"> (en in eksponensiële vorm? ......................... )</para>
+      <list id="id1168850822723" list-type="bulleted">
+        <item><emphasis effect="italics">:a</emphasis> x <emphasis effect="italics">a</emphasis> x <emphasis effect="italics">a</emphasis> = .........................</item>
+      </list>
+      <para id="id1168850203088">1.4: <emphasis effect="italics">a</emphasis>² x <emphasis effect="italics">a</emphasis>² x <emphasis effect="italics">a</emphasis><sup>3</sup> = .........................</para>
+      <para id="id6881643">Skryf nou ‘n algemene reël vir die vermenigvuldiging van eksponente hier neer: </para>
+      <para id="id1168853542781"/>
+      <para id="id1168850979996">1.5: 2(<emphasis effect="italics">a - b</emphasis>) = ......................... </para>
+      <para id="id1168851702956"><emphasis effect="bold"/><emphasis effect="bold">distributiewe wet:</emphasis> (2 x <emphasis effect="italics">a</emphasis>) - (2 x <emphasis effect="italics">b</emphasis>)</para>
+      <para id="id1168857412614">1.6: 3<sup>0 </sup>= .........................  </para>
+      <para id="id1168853287856">1.7: <emphasis effect="italics">a</emphasis>(<emphasis effect="italics">a + b</emphasis>)<sup>0</sup> = .........................</para>
+      <para id="id1168849794296"> Dus : (enige iets) tot die mag 0 = .........................</para>
+      <para id="id2656007">1.8: 3<sup>1</sup> = .........................  </para>
+      <para id="id2434714">1.9: 1<sup>200</sup> = .........................</para>
+      <para id="id1168853524027">2.<emphasis effect="bold"/>Wat beteken elk van die volgende? Gee dan die vereenvoudigde antwoord van elk.</para>
+      <para id="id1168853293485">2.1: <emphasis effect="italics">a</emphasis>² =    </para>
+      <para id="id1168850235810">2.2: 2<emphasis effect="italics">ab</emphasis> =  </para>
+      <para id="id1168849771978">2.3: -3(<emphasis effect="italics">a + b</emphasis>) =  </para>
+      <para id="id1168853188712">2.4: 4(<emphasis effect="italics">a</emphasis>)² =  </para>
+      <para id="id1168849092953">2.5: (<emphasis effect="italics">a</emphasis><sup>3</sup>)² =    </para>
+      <para id="id1168850261268">2.6: (3<emphasis effect="italics">a</emphasis>²)<sup>3</sup> =  </para>
+      <para id="id6578004">2.7: 2<emphasis effect="italics">p</emphasis> x 3<emphasis effect="italics">p</emphasis> =   </para>
+      <para id="id1168849908053">2.8: <emphasis effect="italics">ab</emphasis>² x<emphasis effect="italics"> a</emphasis>²<emphasis effect="italics">b</emphasis><sup>3</sup> x <emphasis effect="italics">ab</emphasis><sup>6</sup> =  </para>
+      <para id="id1168850908198">2.9: (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">a</emphasis><sup>3</sup>)<sup>4</sup> =    </para>
+      <para id="id1168850272717">2.10: 2(<emphasis effect="italics">a</emphasis><sup>3</sup>)² =  </para>
+      <para id="id1168853294746">2.11: 6(2<emphasis effect="italics">a </emphasis>- 3<emphasis effect="italics">b</emphasis>) =   </para>
+      <para id="id1168852782178">2.12: -7<emphasis effect="italics">a</emphasis>(<emphasis effect="italics">a</emphasis>² - 2<emphasis effect="italics">b</emphasis>² ) =  </para>
+      <para id="id1168852050553">3. Kan jy nog die volgorde van bewerkings onthou? Skryf dit neer.....</para>
+      <para id="id4410595">3.1 Bereken nou die volgende deur alles wat jy tot dusver geleer het, te onthou:</para>
+      <para id="id1168861002975">3.1.1:  <emphasis effect="italics">a </emphasis><emphasis effect="italics">x </emphasis><emphasis effect="italics">a </emphasis><emphasis effect="italics">x</emphasis><emphasis effect="italics"> aaa + a</emphasis><emphasis effect="italics">4</emphasis></para>
+      <para id="id1168853193929"/>
+      <para id="id7275889">3.1.2:  2(<emphasis effect="italics">a + b</emphasis>) - 3(<emphasis effect="italics">a - b</emphasis>)</para>
+      <para id="id1168853299287"/>
+      <para id="id1168847716222">3.1.3:  3<emphasis effect="italics">a</emphasis> x 2<emphasis effect="italics">a</emphasis>²b + 5<emphasis effect="italics">a</emphasis>² x (-3<emphasis effect="italics">ab</emphasis>)</para>
+      <para id="id1168852656560"/>
+      <para id="id4368673">3.1.4 : -5<emphasis effect="italics">a</emphasis>(<emphasis effect="italics">a </emphasis>- <emphasis effect="italics">b</emphasis><sup>3</sup>) + 7<emphasis effect="italics">ab</emphasis><sup>3</sup> - 2<emphasis effect="italics">a</emphasis><sup>5</sup></para>
+      <para id="id1168852770672"/>
+      <para id="id1168850509549">3.1.5:  -3(<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis><sup>4</sup>)² - 5<emphasis effect="italics">a</emphasis><sup>3</sup>(-2<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis>²)<sup>3</sup></para>
+      <para id="id7582375"/>
+      <para id="id1168852897056">4. Wat beteken die woord substitusie? </para>
+      <para id="id1168853872922"/>
+      <para id="id1168851094259"/>
+      <para id="id1168857339645"> Gee ‘n voorbeeld om ter verduideliking:</para>
+      <para id="id8478276"/>
+      <para id="id1168850288251">5. As <emphasis effect="italics">a</emphasis> = 5 ; <emphasis effect="italics">b</emphasis> = -1 en <emphasis effect="italics">c</emphasis> = 3 , bereken die waarde van elk van die volgende:</para>
+      <para id="id1168852818370">5.1: 5<emphasis effect="italics">a</emphasis>² - 3<emphasis effect="italics">b</emphasis></para>
+      <para id="id7556630"/>
+      <para id="id1168851450483">5.2: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle></m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>3a</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 size 11{ bold "ab" rSup { size 8{2} } }}  over  { size 12{3a} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1168855417758"/>
+      <para id="id1168852833868">5.3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow><m:mtext/><m:mo stretchy="false">+</m:mo><m:mtext/></m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mn>²</m:mn></m:mrow><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 11{a}"  "+"  " size 11{b}²}  over  { size 11{a}` - ` size 11{b}} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1168849032342"/>
+      <para id="id1168846336361">5.4: (2<emphasis effect="italics">ab</emphasis>²<emphasis effect="italics">c</emphasis>)²</para>
+      <para id="id4507428"/>
+      <para id="id1168852621015">5.5: -3<emphasis effect="italics">ab</emphasis><sup>3</sup> - 2<emphasis effect="italics">ab</emphasis><sup>3</sup><emphasis effect="italics">c</emphasis></para>
+      <para id="id1168849719365"/>
+      <para id="id1168852896940"> HUISWERKOPDRAG 1</para>
+      <para id="id1168852904669">1. Vereenvoudig elk van die volgende:</para>
+      <para id="id1168849825807">1.1: (<emphasis effect="italics">a</emphasis><sup>5</sup>)<sup>6 </sup></para>
+      <para id="id6592245">1.2: 5(3<emphasis effect="italics">a</emphasis> - 7<emphasis effect="italics">a</emphasis>)²   </para>
+      <para id="id5703885">1.3: -5(3<emphasis effect="italics">a</emphasis> - 2<emphasis effect="italics">b</emphasis>)   </para>
+      <para id="id1168849890882">1.4: (3<emphasis effect="italics">a</emphasis>)² . [ (2<emphasis effect="italics">a</emphasis>)² ]<sup>3</sup></para>
+      <para id="id3659613">1.5: <emphasis effect="italics">p </emphasis>x 2 x <emphasis effect="italics">m </emphasis>x <emphasis effect="italics">q</emphasis></para>
+      <para id="id1168851634406">1.6: <emphasis effect="italics">w</emphasis>² x 3<emphasis effect="italics">b</emphasis> x <sup>1</sup>/<sub>3</sub><emphasis effect="italics">b</emphasis> x <emphasis effect="italics">w</emphasis></para>
+      <para id="id1168850382130">1.7: -5<emphasis effect="italics">a</emphasis> ( 3<emphasis effect="italics">a </emphasis>- 5<emphasis effect="italics">ab</emphasis>)  </para>
+      <para id="id1168850342748">1.8: (3<emphasis effect="italics">a</emphasis>)² (2<emphasis effect="italics">a</emphasis>) + (4<emphasis effect="italics">a</emphasis>²) (-2<emphasis effect="italics">a</emphasis>)  </para>
+      <para id="id1168850221720">1.9: (5<emphasis effect="italics">ab</emphasis>²)<sup>4</sup> - (- 6<emphasis effect="italics">b</emphasis><sup>6</sup><emphasis effect="italics">a</emphasis><sup>4</sup>)  </para>
+      <para id="id1168851278764">1.10: -6<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis> ( 2<emphasis effect="italics">a</emphasis>² - 3<emphasis effect="italics">ab</emphasis><sup>3</sup> + 5)  </para>
+      <para id="id1168852675019">2. As <emphasis effect="italics">x </emphasis>= -2 en <emphasis effect="italics">y</emphasis> = -1 , bepaal die waarde van ...</para>
+      <para id="id1168850205838">2.1: (2<emphasis effect="italics">y</emphasis>)(2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>)²  </para>
+      <para id="id3563909">2.2: -3
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math><sup>3</sup> - 2<emphasis effect="italics">y</emphasis><sup>5</sup></para>
+      <para id="id1168846618519">2.3: (2<emphasis effect="italics">y </emphasis>+ 2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>)²  </para>
+      <para id="id1168852798013">3. As <emphasis effect="italics">m</emphasis> = 2 ; <emphasis effect="italics">n</emphasis> = -3 en <emphasis effect="italics">q</emphasis> = 5, bepaal die waarde van elk van die volgende uitdrukkings:</para>
+      <para id="id1168852939060">3.1: <emphasis effect="italics">m</emphasis> + <emphasis effect="italics">n</emphasis> + <emphasis effect="italics">q</emphasis></para>
+      <para id="id1168851075534">3.2: 4<emphasis effect="italics">m</emphasis> - 2<emphasis effect="italics">n </emphasis>- 3<emphasis effect="italics">q</emphasis></para>
+      <para id="id1168846583644">3.3: 2(<emphasis effect="italics">m</emphasis>² + <emphasis effect="italics">q</emphasis>²) - <emphasis effect="italics">n</emphasis>²  </para>
+      <para id="id1168850346344">3.4: <emphasis effect="italics">m</emphasis>/<sub>3</sub> + <emphasis effect="italics">n</emphasis>/<sub>4</sub> - <emphasis effect="italics">q</emphasis></para>
+      <para id="id1168850811355">3.5: 3<emphasis effect="italics">m</emphasis>(<emphasis effect="italics">n </emphasis>+<emphasis effect="italics"> q</emphasis>) - 2(<emphasis effect="italics">m</emphasis> + <emphasis effect="italics">n</emphasis>²)  </para>
+      <para id="id1168850817213">4. Uitdaging: Kyk of jy met al die kennis tot jou beskikking die volgende probleme kan oplos.</para>
+      <para id="id1168853981830">4.1 Die gemiddelde spoed van ‘n Intercape Mainliner is 5<emphasis effect="italics">a</emphasis><sup>4</sup> kilometer per uur.Watter afstand sal die bus in (5<emphasis effect="italics">a</emphasis><sup>3</sup> + 5<emphasis effect="italics">a</emphasis> - 6) uur aflê?</para>
+      <para id="id2851174"/>
+      <para id="id1168853399674"/>
+      <para id="id1168850283263"/>
+      <para id="id1168849497328">4.2 Mej. Suid - Afrika koop (<emphasis effect="italics">a</emphasis> - <emphasis effect="italics">b</emphasis> + 2<emphasis effect="italics">c</emphasis>) liter melk teen 4ab rand per liter en 5ab liter vrugtesap teen (2<emphasis effect="italics">a </emphasis>+ 5<emphasis effect="italics">b</emphasis> - 3<emphasis effect="italics">c</emphasis>) rand per liter. </para>
+      <para id="id1168853868698">Wat sal die bogenoemde altesaam kos?</para>
+      <para id="id7217474"/>
+      <para id="id6922539"/>
+      <para id="id1168848832428"/>
+      <para id="id1168855542407"/>
+      <para id="id5733179">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"/>
+        <emphasis effect="bold">Assessering 2.3</emphasis>
+      </para>
+      <table id="id1168861106304" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessering van myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">deur myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessering deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry>Ek kan…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Kritieke Uitkomste</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>uitdrukkings in eksponensiële vorm skryf; (Lu 2.2; 1.6.3)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kritiese en skeppende denke</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>eksponente suksesvol bymekaar tel; (Lu 2.2; 1.6.3)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Deelname</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>eksponente suksesvol van mekaar aftrek; (Lu 2.2; 1.6.3)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organisering en bestuur</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>eksponente suksesvol met mekaar vermenigvuldig; (Lu 2.2; 2.8.3&amp;.4)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Prosessering van inligting</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>uitdrukkings met hakies oplos; (Lu 2.2; 2.8.5)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kommunikasie</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>die volgorde van bewerkings onthou; (Lu 2.2; 2.8.5)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Probleemoplossing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>waardes van uitdrukkings bereken d.m.v. substitusie.  (Lu 2.2; 2.8.5; 1.6.2; 1.6.3)</entry>
+              <entrytbl namest="c2" nameend="c16" cols="15">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <colspec colnum="7" colname="c7"/>
+                <colspec colnum="8" colname="c8"/>
+                <colspec colnum="9" colname="c9"/>
+                <colspec colnum="10" colname="c10"/>
+                <colspec colnum="11" colname="c11"/>
+                <colspec colnum="12" colname="c12"/>
+                <colspec colnum="13" colname="c13"/>
+                <colspec colnum="14" colname="c14"/>
+                <colspec colnum="15" colname="c15"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry>Selfstandigheid</entry>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168855529915">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">goed</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">gedeeltelik</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">nie goed nie</emphasis>
+      </para>
+      <table id="id1168855306958" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur die leerder:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan van aksie:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My punte:</entry>
+            </row>
+            <row>
+              <entry>Ek is besonder tevrede met die standaard van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Datum</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek is tevrede met die vordering van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Uit:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het hard gewerk, maar is nie tevrede met my prestasie nie.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Leerder</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het nie my beste gelewer nie.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1168857171469" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur ouers:</entry>
+              <entry/>
+              <entry>Kommentaar deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+              <entry/>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168849723366">
+      <title>Assessering</title>
+      <table id="id4356814" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 die historiese en kulturele ontwikkeling van getalle kan beskryf en illustreer;</entry>
+            </row>
+            <row>
+              <entry>1.2 die volgende getalle kan herken, klassifiseer en voorstel om hulle te beskryf en te vergelyk:1.2.3 getalle wat in eksponensiële vorm geskryf is, insluitend vierkante en derdemagte van natuurlike getalle en hul vierkants- en derdemagwortels;1.2.6 veelvoude en faktore;1.2.7 irrasionele getalle in die konteks van meting (bv. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> en vierkants- en derdemagwortels van nie-perfekte vierkante en derdemagte);</entry>
+            </row>
+            <row>
+              <entry>1.6 skat en bereken deur stappe te kies wat geskik is om probleme op te los wat die volgende behels:1.6.2 veelvoudige stappe met rasionale getalle (insluitend deling met breuke en desimale);1.6.3 eksponente.</entry>
+            </row>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel, en probleme op te los deur algebraïese taal en vaardighede te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 numeriese en geometriese patrone ondersoek en uitbrei om te soek vir verwantskappe of reëls, insluitend patrone wat:2.1.1 in fisiese of diagrammatiese vorm voorgestel is;2.1.2 nie beperk is tot reeks met konstante verskil of verhouding;2.1.3 in natuurlike en kulturele kontekste gevind word; 2.1.4 die leerder self geskep het;2.1.5 in tabelle weergegee word;2.1.6 algebraïes weergegee word;</entry>
+            </row>
+            <row>
+              <entry>2.2 waargenome verwantskappe of reëls in eie woorde of in algebra kan beskryf, verduidelik en verantwoord;</entry>
+            </row>
+            <row>
+              <entry>2.3 verwantskappe tussen veranderlikes voorstel en gebruik om op verskeie wyses inset- en/of uitset- waardes te bepaal deur gebruik te maak van:2.3.1 verbale beskrywings;2.3.2 vloeidiagramme;2.3.3 tabelle;2.3.4 formules en vergelykings;</entry>
+            </row>
+            <row>
+              <entry>2.4 wiskundige modelle bou wat oplossings vir probleemsituasies weergee, beskryf en verskaf, terwyl verantwoordelikheid teenoor die omgewing en gesondheid van ander getoon word (insluitende probleme die konteks van menseregte, sosiale ekonomiese, kulturele en omgewingskontekste);</entry>
+            </row>
+            <row>
+              <entry>2.7 die gelykwaardigheid van verskillende beskrywings van dieselfde verwantskap of reël wat soos volg voorgestel word kan bepaal, analiseer en interpreteer:2.7.1 verbaal;2.7.2 in vloeidiagramme;2.7.3 in tabelle;2.7.4 deur vergelykings of uitdrukkings om sodoende die mees bruikbare voorstelling vir ‘n gegewe situasie te kies;</entry>
+            </row>
+            <row>
+              <entry>2.8 konvensies van algebraïese noterings en die wisselbare, verenigbare en verspreibare wette kan gebruik om:2.8.1 terme soos gelyk en ongelyk te klassifiseer en om die klassifikasie te verantwoord;2.8.2 gelyke terme te versamel;2.8.3 ‘n algebraïese uitdrukking met een, twee of drie terme met ‘n eenterm te vermenigvuldig of deel;</entry>
+            </row>
+            <row>
+              <entry>2.8.4 algebraïese uitdrukkings wat in hakienotasie met een of twee stelle hakies en twee tipe bewerkings gegee word, te vereenvoudig;2.8.5 verskillende weergawes van algebraïese uitdrukkings met een of meer bewerkings te vergelyk en om dié wat ekwivalent is te selekteer en die keuse te motiveer;2.8.6 algebraïese uitdrukkings, formules of vergelykings binne konteks in eenvoudiger of meer bruikbare vorms te skryf;</entry>
+            </row>
+            <row>
+              <entry>2.9 die volgende algebra-woordeskat binne konteks kan interpreteer en gebruik: term, uitdrukking, koëffisiënt, eksponent (of indeks), basis, konstante, veranderlike, vergelyking, formule (of reël).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168850598555">
+      <title>Memorandum</title>
+      <para id="id1168852623625">KLASOPDRAG 1</para>
+      <list id="id1168861095418" list-type="bulleted">
+        <item>:2<sup>3</sup></item>
+        <item>:2<sup>12</sup></item>
+        <item>
+          <emphasis effect="italics">:a</emphasis>
+          <sup>3</sup>
+        </item>
+        <item>
+          <emphasis effect="italics">:a</emphasis>
+          <sup>7</sup>
+        </item>
+      </list>
+      <para id="id1168852814214">Vermenigvuldig en grondtal is dieselfde: ‘n mens tel die eksponente bymekaar. </para>
+      <list id="id1168853013825" list-type="bulleted">
+        <item>:2<emphasis effect="italics">a</emphasis> – 2<emphasis effect="italics">b</emphasis></item>
+        <item>:1</item>
+        <item>:a</item>
+        <item>:3</item>
+        <item>:1</item>
+      </list>
+      <list id="id1168850398656" list-type="bulleted">
+        <item><emphasis effect="italics">:a</emphasis> x <emphasis effect="italics">a</emphasis></item>
+        <item>:2 x <emphasis effect="italics">a</emphasis> x <emphasis effect="italics">b</emphasis></item>
+        <item>:–3<emphasis effect="italics">a</emphasis> – 3<emphasis effect="italics">b</emphasis></item>
+        <item>:4 x <emphasis effect="italics">a</emphasis> x <emphasis effect="italics">a</emphasis> = 4<emphasis effect="italics">a</emphasis><sup>2</sup></item>
+        <item><emphasis effect="italics">:a</emphasis><sup>3</sup> x <emphasis effect="italics">a</emphasis><sup>3</sup> – <emphasis effect="italics">a</emphasis><sup>6</sup></item>
+        <item>:27<emphasis effect="italics">a</emphasis><sup>6</sup></item>
+        <item>:6<emphasis effect="italics">p</emphasis><sup>2</sup></item>
+        <item>
+          <emphasis effect="italics">:a</emphasis>
+          <sup>4</sup>
+          <emphasis effect="italics">b</emphasis>
+          <sup>11</sup>
+        </item>
+        <item>:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"16"} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">a</emphasis><sup>12</sup></item>
+        <item>:2<emphasis effect="italics">a</emphasis><sup>6</sup></item>
+        <item>:12<emphasis effect="italics">a</emphasis> – 18<emphasis effect="italics">b</emphasis></item>
+        <item>:–7<emphasis effect="italics">a</emphasis><sup>3</sup> + 14<emphasis effect="italics">ab</emphasis><sup>2</sup></item>
+      </list>
+      <para id="id1168853262144">3.1 :1: ( )</para>
+      <para id="id1168852612470"> 2: van </para>
+      <para id="id1168850804685"> 3: x of ÷ van links na regs </para>
+      <para id="id1168849932297"> 4: + of – van links na regs </para>
+      <list id="id1168849999720" list-type="bulleted">
+        <item><emphasis effect="italics">a</emphasis><sup>5</sup> + <emphasis effect="italics">a</emphasis><sup>4</sup></item>
+        <item>2<emphasis effect="italics">a</emphasis> + 2<emphasis effect="italics">b</emphasis> – 3<emphasis effect="italics">a</emphasis> + 3<emphasis effect="italics">b</emphasis> = -<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis></item>
+        <item>–18<emphasis effect="italics">a</emphasis><sup>6</sup><emphasis effect="italics">b</emphasis><sup>2</sup></item>
+        <item>–5<emphasis effect="italics">a</emphasis><sup>2</sup> + 5<emphasis effect="italics">ab</emphasis><sup>3 </sup>+ 7<emphasis effect="italics">ab</emphasis><sup>3</sup> – 2<emphasis effect="italics">a</emphasis><sup>5</sup></item>
+      </list>
+      <para id="id1168852948344">=-5<emphasis effect="italics">a</emphasis><sup>2</sup> + 12<emphasis effect="italics">ab</emphasis><sup>3</sup> + 7<emphasis effect="italics">ab</emphasis><sup>3</sup> – 2<emphasis effect="italics">a</emphasis><sup>5</sup></para>
+      <list id="id1168851586265" list-type="bulleted">
+        <item>–3<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis><sup>8</sup> + 10<emphasis effect="italics">a</emphasis><sup>15</sup><emphasis effect="italics">b</emphasis><sup>6</sup></item>
+      </list>
+      <para id="id1168850916372">4. vervanging </para>
+      <list id="id8482080" list-type="bulleted">
+        <item>:5(5)<sup>2</sup>–3(–1) </item>
+      </list>
+      <para id="id1168851022602">= 125 + 3 = 128</para>
+      <list id="id1168853164980" list-type="bulleted">
+        <item>:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 \( 5 \)  \(  - 1 \)  rSup { size 8{2} } }  over  {3 \( 5 \) } } } {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <para id="id1168850576327">= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>10</m:mtext><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"10"}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+      <list id="id1168852024762" list-type="bulleted">
+        <item>:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { \( 5 \) + \(  - 1 \)  rSup { size 8{2} } }  over  {5 -  \(  - 1 \) } } } {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <para id="id1168853351745">= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {6} } } {}</m:annotation></m:semantics></m:math> = 1</para>
+      <list id="id1168850593731" list-type="bulleted">
+        <item>:[2(5)(–1)<sup>2</sup>(3)]<sup>2</sup></item>
+      </list>
+      <para id="id1168851128233">= [30]<sup>2</sup> = 900</para>
+      <list id="id1168849742959" list-type="bulleted">
+        <item>:–3(5)(–1)<sup>3</sup>–2(5)(–1)<sup>3</sup>(3) </item>
+      </list>
+      <para id="id1168848841452">= 15 + 30 = 45</para>
+      <para id="id7162072">HUISWERKOPDRAG 1</para>
+      <list id="id7519535" list-type="bulleted">
+        <item>:9<sup>30</sup></item>
+        <item>:5(–4<emphasis effect="italics">a</emphasis>)<sup>2</sup> = 80<emphasis effect="italics">a</emphasis><sup>2</sup></item>
+        <item>:–15<emphasis effect="italics">a</emphasis> + 10<emphasis effect="italics">b</emphasis></item>
+        <item>:9<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="bold">.</emphasis>64<emphasis effect="italics">a</emphasis><sup>6</sup> = 576<emphasis effect="italics">a</emphasis><sup>8</sup></item>
+        <item>:2m<emphasis effect="italics">p</emphasis><emphasis effect="italics">q</emphasis></item>
+        <item>
+          <emphasis effect="italics">:b</emphasis>
+          <sup>2</sup>
+          <emphasis effect="italics">w</emphasis>
+          <sup>3</sup>
+        </item>
+        <item>:–15<emphasis effect="italics">a</emphasis><sup>2</sup> + 25<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis></item>
+        <item>:6<emphasis effect="italics">a</emphasis><sup>3</sup> – 8<emphasis effect="italics">a</emphasis><sup>3</sup> = –2<emphasis effect="italics">a</emphasis><sup>3</sup></item>
+      </list>
+      <para id="id1168858927376">1.9 :625<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis><sup>8</sup> + 6<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis><sup>6</sup></para>
+      <para id="id1168851583814">1.10 :–12<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis> + 18<emphasis effect="italics">a</emphasis><sup>3</sup><emphasis effect="italics">b</emphasis><sup>4</sup> – 30<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis></para>
+      <list id="id1168850196458" list-type="bulleted">
+        <item>:[2(–1)][2( 2)]<sup>2</sup></item>
+      </list>
+      <para id="id1168849839299">=(–2)(16) = –32</para>
+      <list id="id1168846317483" list-type="bulleted">
+        <item>:–3(–2)<sup>3</sup>–2(–1)<sup>5</sup></item>
+      </list>
+      <para id="id8201584">= 24 + 2 = 26</para>
+      <para id="id1168852981311"/>
+      <list id="id1168850331918" list-type="bulleted">
+        <item>:[2(–1) + 2(–2)]<sup>2</sup></item>
+      </list>
+      <para id="id1168851333464">= [–2–4] </para>
+      <para id="id3922480">= (–6)<sup>2</sup></para>
+      <para id="id1168850599164">= 36</para>
+      <list id="id1168850354797" list-type="bulleted">
+        <item>:2 + (–3) + = 4</item>
+        <item>:4(2) – 2(–3) – 3(5)</item>
+      </list>
+      <para id="id1168852203667">= 8 + 6 – 15 = –1</para>
+      <list id="id1168858758827" list-type="bulleted">
+        <item>:2[(2)<sup>2</sup> + (5)<sup>2</sup>] – (–3)<sup>2</sup></item>
+      </list>
+      <para id="id1168858752139">= 2[4 + 25] – (–3)<sup>2</sup></para>
+      <para id="id1168853057332">= 58 – 9 = 49</para>
+      <para id="id1168850953082">3.4: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { - 3}  over  {4} } } {}</m:annotation></m:semantics></m:math> – 5</para>
+      <para id="id1168849649855"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { - 1}  over  {4} } } {}</m:annotation></m:semantics></m:math> – 5 = 5
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1168852620899">3.5: 3(2)[–3 + 5] – 2 [2 + (–3)<sup>2</sup>]</para>
+      <para id="id1168850215528">= 6[2] – 2[11]</para>
+      <para id="id1168850788616">= 12 – 2</para>
+      <para id="id1652800">= –10</para>
+      <list id="id3662063" list-type="bulleted">
+        <item>:5<emphasis effect="italics">a</emphasis><sup>4</sup>(5<emphasis effect="italics">a</emphasis><sup>3</sup> + 5<emphasis effect="italics">a</emphasis> – 6)</item>
+      </list>
+      <para id="id5538262">= 25<emphasis effect="italics">a</emphasis><sup>7</sup> + 25<emphasis effect="italics">a</emphasis><sup>5</sup> – 30<emphasis effect="italics">a</emphasis><sup>4</sup></para>
+      <list id="id1168850839094" list-type="bulleted">
+        <item>:4<emphasis effect="italics">ab</emphasis>(<emphasis effect="italics">a</emphasis> – <emphasis effect="italics">b</emphasis> + 2<emphasis effect="italics">c</emphasis>) + 5<emphasis effect="italics">ab</emphasis>(2<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> – 3<emphasis effect="italics">c</emphasis>)</item>
+      </list>
+      <para id="id1168861269690">= 4<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis> – 4<emphasis effect="italics">ab</emphasis><sup>2</sup> + 8<emphasis effect="italics">ab</emphasis><emphasis effect="italics">c</emphasis> + 10<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis> + 25<emphasis effect="italics">ab</emphasis><sup>2</sup> – 15<emphasis effect="italics">ab</emphasis><emphasis effect="italics">c</emphasis></para>
+      <para id="id1168846374989">= 14<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis> + 21<emphasis effect="italics">ab</emphasis><sup>2</sup> – 7<emphasis effect="italics">ab</emphasis><emphasis effect="italics">c</emphasis></para>
+    </section>
+  </content>
+</document>

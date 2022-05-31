@@ -1,0 +1,1644 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Priemfaktore, vierkantswortels en derdemagswortels</title>
+  <metadata>
+  <md:content-id>m31004</md:content-id><md:title>Priemfaktore, vierkantswortels en derdemagswortels</md:title>
+  <md:abstract/>
+  <md:uuid>8f3a9abd-c546-4f0e-b1c5-f2aa7c1997ef</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165804733404">
+      <title>WISKUNDE</title>
+      <para id="para-id1165804733404">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165801603361">
+      <title>Graad 8</title>
+      <para id="para-id1165801603361">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165804864221">
+      <title>GETALLESTELSEL (Natuurlike- en telgetalle)</title>
+      <para id="para-id1165804864221">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165804863487">
+      <title>Module 2</title>
+      <para id="para-id1165804863487">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165809065633">
+      <title>PRIEMFAKTORE, VIERKANTSWORTELS EN DERDEMAGSWORTELS</title>
+      <para id="id1165805001684">KLASOPDRAG 1</para>
+      <para id="id1165804707339">1. Priemfaktore</para>
+      <list id="id1165804611965" list-type="bulleted">
+        <item>Hoe skryf jy ‘n getal as die produk van sy priemfaktore? </item>
+        <item>En in eksponensiële notasie?</item>
+      </list>
+      <para id="id1165804887961"> Bv. Vraag: Skryf 24 as die produk van sy priemfaktore(onthou jy mag net priemgetalle as delers gebruik).</para>
+      <table id="id1165801269786" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>2</entry>
+              <entry>24</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165804929083"> Priemfaktore van 24 = {2; 3}</para>
+      <para id="id1165809117596"> 24 as produk van sy priemfaktore: 24 = 2 x 2 x 2 x 3</para>
+      <para id="id1165801296600"> 24 = 2<sup>3</sup> x 3 (eksponensiële notasie)</para>
+      <para id="id1165804679614">1.1 Druk nou elk van die volgende as die produk van hul priemfaktore (in eksponensiële notasie) uit en skryf ook die priemfaktore van elk neer.</para>
+      <table id="id1165804677660" summary="">
+        <tgroup cols="11">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>48</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>60</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>450</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165805085595">48 = .............................60 = ..............................450 = ................... </para>
+      <para id="id1165801241482">P<sub>48</sub> = { ........................}  P<sub>60</sub> = { .........................} P<sub>450 </sub>= {.........................}</para>
+      <para id="id1165809155797">2. Vierkantswortels en derdemagswortels</para>
+      <list id="id1165801212130" list-type="bulleted">
+        <item>Hoe bepaal jy die vierkantswortel (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow/></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {} } {}</m:annotation></m:semantics></m:math>) of derdemagswortel (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {} } {}</m:annotation></m:semantics></m:math>) van ‘n getal met behulp van priemfaktore?</item>
+      </list>
+      <list id="id1165801260400" list-type="bulleted">
+        <item>Bepaal: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>324</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"324"} } {}</m:annotation></m:semantics></m:math></item>
+        <item>Stap 1: Ontbind in priemfaktoreStap 2: Skryf as produk van priemfaktore (in eksponensiële notasie)</item>
+        <item>Stap 3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>324</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"324"} } {}</m:annotation></m:semantics></m:math> beteken (324)<sup>½ </sup>(kry helfte van elke eksponent)</item>
+        <item/>
+      </list>
+      <table id="id1165804731899" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>2</entry>
+              <entry>324</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>162</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>81</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>27</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>9</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>3</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165804877742">Dus: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>324</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"324"} } {}</m:annotation></m:semantics></m:math> = (2<sup>2</sup> x 3<sup>4</sup>)<sup>½</sup> = 2<sup>1</sup> x 3<sup>2</sup> = 2 x 9 = 18</para>
+      <para id="id1165804654847">(324 is volkome vierkant, want 18 x 18 = 324)</para>
+      <list id="id1165804904935" list-type="bulleted">
+        <item>Onthou: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mi/></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {```} } {}</m:annotation></m:semantics></m:math> beteken (......)<sup>½ </sup> en 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mi/><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {```} } {}</m:annotation></m:semantics></m:math> beteken (......)<sup>1/3</sup></item>
+      </list>
+      <para id="id1165809170460"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:msup><m:mn>8x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {8x rSup { size 8{"12"} } } `=`2x rSup { size 8{"12" div 3=4} } } {}</m:annotation></m:semantics></m:math> dus 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x rSup { size 8{4} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1165801390772">2.1 Bereken met behulp van priemfaktore:</para>
+      <para id="id1165809108808">(i) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>1024</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"1024"} } {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1165801306491" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1024</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165804831520">(ii) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>1000</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"1000"} } {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1165804826764" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1000</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165801243054">2.2 Bereken:</para>
+      <para id="id1165809039128">a) (2 x 3)² =  </para>
+      <para id="id1165804792787">b) 3 x 8² =  </para>
+      <para id="id1165805055678">c) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {1} } {}</m:annotation></m:semantics></m:math> =   </para>
+      <para id="id1165804756608">d) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mn>1</m:mn><m:mrow/></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot {}  {1} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165804754496">e) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( sqrt {2}  right ) rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>=   </para>
+      <para id="id1165809217031">f) dan sal 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:msqrt><m:mtext>17</m:mtext></m:msqrt></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( sqrt {"17"}  right ) rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165809116818">g) (3 + 4)<sup>3</sup> + 14 =   </para>
+      <para id="id1165804725138">h) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mtext>36</m:mtext></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msqrt><m:mn>9</m:mn></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"} `+` sqrt {9} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165804779285">i) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>36</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mtext>64</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"`+`"64"} } {}</m:annotation></m:semantics></m:math> =   </para>
+      <para id="id1165801258840">j) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"27"} } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {1} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165805114655">k) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  nroot { size 8{3} }  {"27"}  \)  rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> =   </para>
+      <para id="id1165804733444">l) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>64</m:mtext><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"64"x rSup { size 8{"12"} } } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165805038158">HUISWERKOPDRAG </para>
+      <para id="id1165809245111">1. Bepaal met behulp van priemfaktore:</para>
+      <para id="id1165809242752">1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>4</m:mn><m:mi/><m:mtext>096</m:mtext></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {4`"096"} } {}</m:annotation></m:semantics></m:math> en    1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>1</m:mn><m:mi/><m:mtext>296</m:mtext></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{4} }  {1`"296"} } {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1165809196791" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>4 096</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>1 296</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165809105624">2. Bepaal sonder die gebruik van ‘n sakrekenaar.</para>
+      <para id="id1165809105958">2.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>3</m:mn><m:mtext>.</m:mtext><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {3 "." 3 "." 3 "." 3 "." 3 rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165804837560">2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mi/><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:mi/><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>15</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {5 rSup { size 8{3} } `a rSup { size 8{6} } `b rSup { size 8{"15"} } } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165809471898">2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>8</m:mn><m:mrow><m:mi/><m:mo stretchy="false">÷</m:mo><m:mi/></m:mrow><m:mtext>125</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mtext>27</m:mtext></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {8` div `"125"` times `"27"} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165805034120">2.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:mtext>64</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mo stretchy="false">(</m:mo><m:mi/><m:mroot><m:mtext>64</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mi/><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"64"} `+` \( ` nroot { size 8{3} }  {"64"} ` \)  rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165804619894">2.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mi/><m:mo stretchy="false">(</m:mo><m:mi/><m:mroot><m:mn>8</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mi/><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2` \( ` nroot { size 8{3} }  {8} ` \)  rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165804622535">2.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>169</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"169"} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165809235213">2.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mn>4</m:mn><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mtext>12</m:mtext><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { \( 6`+`4` times `"12" \)  rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165805007662">2.8 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>6</m:mn><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mn>1</m:mn></m:mrow><m:mi/><m:mn>8</m:mn><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mtext>12</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {6` times 1`8` times `"12"} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165805010329">2.9 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 \(  sqrt {9}  \)  rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165809043418">2.10 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mn>3</m:mn><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { \( 6`+`3 \)  rSup { size 8{2} } } ` - `3 rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1165809074038">KLASOPDRAG 2</para>
+      <para id="id1165804842898">1. Wat beteken die volgende in jou eie woorde (bespreek in groepe)?</para>
+      <list id="id1165804738807" list-type="bulleted">
+        <item><emphasis effect="bold">KGV</emphasis>:</item>
+      </list>
+      <para id="id1165804783525"/>
+      <para id="id1165804752980">Gee ‘n voorbeeld ter verduideliking</para>
+      <para id="id1165801268152"/>
+      <list id="id1165804969555" list-type="bulleted">
+        <item><emphasis effect="bold">GGD</emphasis>:</item>
+      </list>
+      <para id="id1165809066262"/>
+      <para id="id1165809174526">Gee ‘n voorbeeld ter verduideliking</para>
+      <para id="id1165804808314"/>
+      <para id="id1165809195125">2. Hoe gaan jy die KGV en GGD van die volgende getalle bepaal?</para>
+      <para id="id1165809119123">8; 12; 20</para>
+      <para id="id1165809415320"><emphasis effect="italics">Stap 1:</emphasis> Skryf elke getal as die produk van sy priemfaktore.(Liefs nie in eksponensiële notasie nie)</para>
+      <para id="id1165804961208">  8 = 2 x 2 x 2</para>
+      <para id="id1165809189194">  12 = 2 x 2 x 3</para>
+      <para id="id1165804791196">  20 = 2 x 2 x 5</para>
+      <para id="id1165809401079"><emphasis effect="italics">Stap 2:</emphasis> Bepaal eers die GGD (dit is die getal(le) wat in al drie voorkom).(Wenk: As getal 2 in al drie voorkom, omkring die twee by al drie getalle, en skryf dit een keer neer ens.)</para>
+      <para id="id1165805010854">  GGD = 2 x 2 = 4</para>
+      <para id="id1165801217405"><emphasis effect="italics">Stap 3:</emphasis> Bepaal nou die KGV. Skryf eers die GGD neer, en soek dan die getal wat in twee van die getalle voorkom en skryf dit dan neer, en laastens dit wat oorbly).</para>
+      <para id="id1165809139694">  KGV = 4 x 2 x 3 x 5 = 120</para>
+      <para id="id1165801252724">3. Doen nou net so en bepaal die GGD en KGV van die volgende:</para>
+      <para id="id1165809111851">38; 57; 95</para>
+      <para id="id1165809221493">Werk hier uit:</para>
+      <para id="id1165809449874">  38 = ....................................................................</para>
+      <para id="id1165804613667">  57 = ....................................................................</para>
+      <para id="id1165809055061">  95 = ....................................................................</para>
+      <para id="id1165801334798">GGD = .................................. en KGV = ..................................</para>
+      <para id="id1165801292662">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"/>
+      </para>
+      <table id="id1165801327868" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessering van myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">deur myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessering deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry>Ek kan…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Kritieke Uitkomste</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>priemfaktore van 'n getal bepaal; (Lu 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kritiese en skeppende denke</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>'n getal as die produk van sy priemfaktore ontbind; (Lu 1.2.6; 1.2.3)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Deelname</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>priemfaktore in eksponensiële notasie uitdruk; (Lu 1.2.7)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organisering en bestuur</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>die vierkantswortel van 'n getal bepaal; (Lu 1.2.7)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Prosessering van inligting</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>die derdemagswortel van 'n getal bepaal. (Lu 1.2.7)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Kommunikasie</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>bepaal/definieer die kleinste gemene veelvoud (<emphasis effect="bold">KGV</emphasis>); (Lu 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Probleemoplossing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>bepaal/definieer die grootste gemene deler (<emphasis effect="bold">GGD</emphasis>). (Lu 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Selfstandigheid</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165809130444">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">goed</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">gedeeltelik</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">nie goed nie</emphasis>
+      </para>
+      <table id="id1165804911295" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur die leerder:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan van aksie:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My punte:</entry>
+            </row>
+            <row>
+              <entry>Ek is besonder tevrede met die standaard van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Datum</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek is tevrede met die vordering van my werk.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Uit:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het hard gewerk, maar is nie tevrede met my prestasie nie.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Leerder</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ek het nie my beste gelewer nie.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1165809207169" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Kommentaar deur ouers:</entry>
+              <entry/>
+              <entry>Kommentaar deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+              <entry/>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165801358008"/>
+      <para id="id1165801378598">Tutoriaal 1: (Getallestelsels)</para>
+      <para id="id1165804982106">Totaal: 30</para>
+      <para id="id1165804779711">1. Vereenvoudig:</para>
+      <para id="id1165809094570">1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>100</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mtext>36</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"100"` - `"36"} } {}</m:annotation></m:semantics></m:math>   [1]</para>
+      <para id="id1165809419150">1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mtext>25</m:mtext><m:mtext>49</m:mtext></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {"25"}  over  {"49"} } } } {}</m:annotation></m:semantics></m:math>   [1]</para>
+      <para id="id1165804871133">1.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>15</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 rSup { size 8{6} } 3 rSup { size 8{"15"} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1165804929734">1.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mn>9</m:mn></m:msqrt><m:mi/><m:mo stretchy="false">(</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msqrt><m:mtext>16</m:mtext></m:msqrt><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {9} ` \(  sqrt {9} `+` sqrt {"16"}  \) } {}</m:annotation></m:semantics></m:math>   [3]</para>
+      <para id="id1165804904042">1.5 9²   [1]</para>
+      <para id="id1165804924770">1.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mi>a</m:mi></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mtext>4,</m:mtext><m:mi/><m:mi>a</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {a} `=`"4,"~a`=`} {}</m:annotation></m:semantics></m:math>   [1]</para>
+      <para id="id1165804879565">1.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mtext>5,</m:mtext><m:mi/><m:mi>a</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {a} `=`"5,"~a`={}} {}</m:annotation></m:semantics></m:math>   [1]<emphasis effect="bold"> [10]</emphasis></para>
+      <para id="id1165804904257">2. Beskou die getal 324, en beantwoord die vrae wat volg:</para>
+      <para id="id1165801321894">2.1 Is 324 deelbaar deur 3? Gee ‘n rede vir jou antwoord. [2]</para>
+      <para id="id1165804929663"/>
+      <para id="id1165804926554">2.2 Skryf 324 as die produk van sy priemfaktore. [3]</para>
+      <table id="id1165804923874" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>324</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165804860556">2.3 Bepaal vervolgens 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>324</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"324"} } {}</m:annotation></m:semantics></m:math> [2]</para>
+      <para id="id1165805019172"/>
+      <para id="id1165801293221">2.4 Is 324 ‘n volkome vierkant? Gee ‘n rede vir jou antwoord.  [2] <emphasis effect="bold">[9]</emphasis></para>
+      <para id="id1165809410922"/>
+      <para id="id1165809415259">3. Bereken elk van die volgende sonder die gebruik van ‘n sakrekenaar.</para>
+      <para id="id1165809215051">3.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>81</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"81"} } {}</m:annotation></m:semantics></m:math>   [1]</para>
+      <para id="id1165809219986">3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mtext>36</m:mtext><m:mn>4</m:mn></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {"36"}  over  {4} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1165809174238">3.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3 rSup { size 8{2} } `+`4 rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1165805079426">3.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>16</m:mtext><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>16</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"16"x rSup { size 8{"16"} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1165804803388">4. As <emphasis effect="italics">x</emphasis> = 3, bereken:</para>
+      <para id="id1165801314427">4.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 rSup { size 8{x} } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1165801217014">4.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{x} }  {"27"} } {}</m:annotation></m:semantics></m:math>   [2] <emphasis effect="bold">[11]</emphasis></para>
+      <para id="id1165805080080">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"/>
+        <emphasis effect="bold">Tutoriaal </emphasis>
+      </para>
+      <table id="id1165805020520" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">Ek demonstreer kennis en begrip van:</entry>
+              <entry>Leer­uitkomste</entry>
+              <entry/>
+              <entry>0000</entry>
+              <entry>000</entry>
+              <entry>00</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>1.</entry>
+              <entry>natuurlike getalle (<emphasis effect="bold">N</emphasis>) en telgetalle (<emphasis effect="bold">N</emphasis><emphasis effect="bold">0</emphasis>)</entry>
+              <entry>1.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2.</entry>
+              <entry>die identifisering van verskillende soorte getalle;</entry>
+              <entry>1.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.</entry>
+              <entry>saamgestelde getalle;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4.</entry>
+              <entry>deelbaarheidsreëls;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5.</entry>
+              <entry>veelvoude van 'n getal;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6.</entry>
+              <entry>faktore van 'n getal;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7.</entry>
+              <entry>priemgetalle;</entry>
+              <entry>1.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8.</entry>
+              <entry>priemfaktore;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>9.</entry>
+              <entry>ontbinding van getalle as die produk van hul priemfaktore;</entry>
+              <entry>1.2.6; 1.2.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10.</entry>
+              <entry>uitdrukking van priemfaktore in eksponensiële notasie;</entry>
+              <entry>1.2.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>11.</entry>
+              <entry>ewe en onewe getalle;</entry>
+              <entry>1.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>12.</entry>
+              <entry>vierkantswortels van 'n getal;</entry>
+              <entry>1.2.7</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>13.</entry>
+              <entry>derdemagswortels van 'n getal;</entry>
+              <entry>1.2.7</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>14.</entry>
+              <entry>die kleinste gemene veelvoud (KGV);</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>15.</entry>
+              <entry>die grootste gemene deler (GGD).</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1165801293694" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Die leerder se…</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>werk is…</entry>
+              <entry>Nie gedoen nie.</entry>
+              <entry>Deels gedoen.</entry>
+              <entry>Meestal voltooi.</entry>
+              <entry>Volledig voltooi.</entry>
+            </row>
+            <row>
+              <entry>uiteensetting van die werk is…</entry>
+              <entry>Nie verstaanbaar nie.</entry>
+              <entry>Moeilik om te verstaan..</entry>
+              <entry>Gedeeltelik verstaanbaar.</entry>
+              <entry>Heeltemal verstaanbaar.</entry>
+            </row>
+            <row>
+              <entry>korrektheid van bewerkings…</entry>
+              <entry>Is nie wiskundig korrek nie.</entry>
+              <entry>Bevat groot foute.</entry>
+              <entry>Bevat slegs geringe foute.</entry>
+              <entry>Is korrek.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1165805118556" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c6">My BESTE punte:</entry>
+              <entry/>
+              <entry>Kommentaar deur opvoeder:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">Datum</emphasis>:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Uit:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Leerder</emphasis>:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry/>
+              <entry>Handtekening:   <emphasis effect="italics">Datum</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165804879994">Ouerhandtekening:   <emphasis effect="italics">Datum</emphasis>:  </para>
+      <para id="id1165804872738">Toets 1: (Getallestelsels)</para>
+      <para id="id1165804869701">Totaal: 30</para>
+      <para id="id1165804868738">1. Tabelleer die volgende:</para>
+      <para id="id1165804871773">1.1 Al die priemgetalle tussen 20 en 30. [2]</para>
+      <para id="id1165804869668"/>
+      <para id="id1165804870848">1.2 Al die faktore van 12. [2]</para>
+      <para id="id1165804869919"/>
+      <para id="id1165804870883">1.3 Al die faktore van 12 wat saamgestelde getalle is.  [2] <emphasis effect="bold">[6]</emphasis></para>
+      <para id="id1165804927339"/>
+      <para id="id1165804927342">2. Bepaal die kleinste natuurlike getal in die plek van * sodat die volgende getal deelbaar deur 3 is (gee ‘n rede vir jou antwoord).</para>
+      <para id="id1165804927627"> 1213156*3 [2]</para>
+      <para id="id1165804928554"/>
+      <para id="id1165804867807">3. Bepaal die waardes van die volgende sonder die gebruik van ‘n sakrekenaar.</para>
+      <para id="id1165804868668">3.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>36</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mtext>64</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"`+`"64"} } {}</m:annotation></m:semantics></m:math>   [2] 3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {2 rSup { size 8{9} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1165804881746">3.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>2</m:mn><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 {  { size 8{7} }  over  { size 8{9} } } } } {}</m:annotation></m:semantics></m:math>   [3] 3.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>0,04</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"0,04"} } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1165809039260">3.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>100</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mtext> 36</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"100"`-`" 36"} } {}</m:annotation></m:semantics></m:math>  [2] 3.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>27</m:mtext></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {8 times "27"} } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1165804895325">3.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  sqrt {9}  \)  rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>   [2] 3.8 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mtext>64</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"64"` - `1} } {}</m:annotation></m:semantics></m:math>   [2] <emphasis effect="bold">[17]</emphasis></para>
+      <para id="id1165801252911">4. Bepaal 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>1 728</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"1 728"} } {}</m:annotation></m:semantics></m:math> met behulp van sy priemfaktore, sonder die gebruik van ‘n sakrekenaar.</para>
+      <para id="id1165809170690"/>
+      <para id="id1165804780584"/>
+      <para id="id1165805104458"/>
+      <para id="id1165805104461"/>
+      <para id="id1165805118815">  [5]</para>
+      <para id="id1165804769633">5. Bonuspuntvraag</para>
+      <para id="id1165801299885">As (n) die simbool vir n<sup>n</sup> is, wat is die waarde van (2)? [2]</para>
+      <para id="id1165809182732"/>
+      <para id="id1165809048545"/>
+      <para id="id1165809048549"/>
+      <para id="id1165809097487"/>
+      <para id="id1165809097490">Verrykingsoefening vir die vinnige werker</para>
+      <para id="id1165809069090">(Leereenheid 1)</para>
+      <para id="id1165809110449">1. Indien n en p albei onewe is, watter van die volgende is ewe?</para>
+      <para id="id1165809103175">a) <emphasis effect="italics">np </emphasis></para>
+      <para id="id1165804835679">b) <emphasis effect="italics">n</emphasis>²<emphasis effect="italics">p</emphasis> + 2 </para>
+      <para id="id1165804971097">c) <emphasis effect="italics">n</emphasis>+<emphasis effect="italics">p</emphasis>+1 </para>
+      <para id="id1165801297019">d) 2<emphasis effect="italics">n</emphasis>+3<emphasis effect="italics">p</emphasis>+5 </para>
+      <para id="id1165804770371">e) 2<emphasis effect="italics">n</emphasis>+<emphasis effect="italics">p</emphasis></para>
+      <para id="id1165804749901">2. R 120 word tussen drie mans in die verhouding 3 : 4 : 9 verdeel. Die een met die kleinste aandeel kry ...</para>
+      <para id="id1165805012891">a) R16 </para>
+      <para id="id1165801365737">b) R20 </para>
+      <para id="id1165804769166">c) R22,50 </para>
+      <para id="id1165801349423">d) R24,50 </para>
+      <para id="id1165804771232">e) R40</para>
+      <para id="id1165801244768">3. ‘n Tienhoek het twee binnehoeke van 120° elk. As die oorblywende hoeke almal dieselfde grootte is, dan is elk van hierdie hoeke gelyk aan ...</para>
+      <para id="id1165804836356">a) 15° </para>
+      <para id="id1165801282138">b) 30° </para>
+      <para id="id1165805032854">c) 120° </para>
+      <para id="id1165801333712">d) 150° </para>
+      <para id="id1165801315475">e) 165°</para>
+      <para id="id1165804792213">4. Die laaste syfer van 3<sup>1993</sup> is ....</para>
+      <para id="id1165801285741">a) 1  </para>
+      <para id="id1165804614345">b) 3 </para>
+      <para id="id1165801345663">c) 6 </para>
+      <para id="id1165801265747">d) 7 </para>
+      <para id="id1165804791876">e) 9</para>
+    </section>
+    <section id="id1165809220965">
+      <title>Assessering</title>
+      <table id="id1165809166036" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 die historiese en kulturele ontwikkeling van getalle kan beskryf en illustreer;</entry>
+            </row>
+            <row>
+              <entry>1.2 die volgende getalle kan herken, klassifiseer en voorstel om hulle te beskryf en te vergelyk:1.2.3 getalle wat in eksponensiële vorm geskryf is, insluitend vierkante en derdemagte van natuurlike getalle en hul vierkants- en derdemagwortels;1.2.6 veelvoude en faktore;1.2.7 irrasionele getalle in die konteks van meting (bv. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> en vierkants- en derdemagwortels van nie-perfekte vierkante en derdemagte);</entry>
+            </row>
+            <row>
+              <entry>1.6 skat en bereken deur stappe te kies wat geskik is om probleme op te los wat die volgende behels:1.6.2 veelvoudige stappe met rasionale getalle (insluitend deling met breuke en desimale);1.6.3 eksponente.</entry>
+            </row>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel, en probleme op te los deur algebraïese taal en vaardighede te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 numeriese en geometriese patrone ondersoek en uitbrei om te soek vir verwantskappe of reëls, insluitend patrone wat:2.1.1 in fisiese of diagrammatiese vorm voorgestel is;2.1.2 nie beperk is tot reeks met konstante verskil of verhouding;2.1.3 in natuurlike en kulturele kontekste gevind word; 2.1.4 die leerder self geskep het;2.1.5 in tabelle weergegee word;2.1.6 algebraïes weergegee word;</entry>
+            </row>
+            <row>
+              <entry>2.2 waargenome verwantskappe of reëls in eie woorde of in algebra kan beskryf, verduidelik en verantwoord;</entry>
+            </row>
+            <row>
+              <entry>2.3 verwantskappe tussen veranderlikes voorstel en gebruik om op verskeie wyses inset- en/of uitset- waardes te bepaal deur gebruik te maak van:2.3.1 verbale beskrywings;2.3.2 vloeidiagramme;2.3.3 tabelle;2.3.4 formules en vergelykings;</entry>
+            </row>
+            <row>
+              <entry>2.4 wiskundige modelle bou wat oplossings vir probleemsituasies weergee, beskryf en verskaf, terwyl verantwoordelikheid teenoor die omgewing en gesondheid van ander getoon word (insluitende probleme die konteks van menseregte, sosiale ekonomiese, kulturele en omgewingskontekste);</entry>
+            </row>
+            <row>
+              <entry>2.7 die gelykwaardigheid van verskillende beskrywings van dieselfde verwantskap of reël wat soos volg voorgestel word kan bepaal, analiseer en interpreteer:2.7.1 verbaal;2.7.2 in vloeidiagramme;2.7.3 in tabelle;2.7.4 deur vergelykings of uitdrukkings om sodoende die mees bruikbare voorstelling vir ‘n gegewe situasie te kies;</entry>
+            </row>
+            <row>
+              <entry>2.8 konvensies van algebraïese noterings en die wisselbare, verenigbare en verspreibare wette kan gebruik om:2.8.1 terme soos gelyk en ongelyk te klassifiseer en om die klassifikasie te verantwoord;2.8.2 gelyke terme te versamel;2.8.3 ‘n algebraïese uitdrukking met een, twee of drie terme met ‘n eenterm te vermenigvuldig of deel;</entry>
+            </row>
+            <row>
+              <entry>2.8.4 algebraïese uitdrukkings wat in hakienotasie met een of twee stelle hakies en twee tipe bewerkings gegee word, te vereenvoudig;2.8.5 verskillende weergawes van algebraïese uitdrukkings met een of meer bewerkings te vergelyk en om dié wat ekwivalent is te selekteer en die keuse te motiveer;2.8.6 algebraïese uitdrukkings, formules of vergelykings binne konteks in eenvoudiger of meer bruikbare vorms te skryf;</entry>
+            </row>
+            <row>
+              <entry>2.9 die volgende algebra-woordeskat binne konteks kan interpreteer en gebruik: term, uitdrukking, koëffisiënt, eksponent (of indeks), basis, konstante, veranderlike, vergelyking, formule (of reël).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165809194446">
+      <title>Memorandum</title>
+      <section id="id1165805063023">
+        <title>KLASOPDRAG 1</title>
+        <para id="id1165809134950">1.1  48 = 2<sup>4</sup> × 3;   60 = 2² x 3 x 5;   450 = 2 x 3² x 5²;</para>
+        <para id="id1165809401305"><emphasis effect="italics">P</emphasis>48 = {2, 3} ; <emphasis effect="italics">P</emphasis>60 = {2, 3, 5};  <emphasis effect="italics">P</emphasis>450 = {2, 3, 5}</para>
+        <para id="id1165809199290">2.1 i) <!--Sorry, this media type is not supported.--> = <!--Sorry, this media type is not supported.--> = (2<sup>10</sup>)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1165805108376">     = 2<sup>5</sup></para>
+        <para id="id1165809133194">     = 32</para>
+        <para id="id1165809208658"> ii) <!--Sorry, this media type is not supported.--> = <!--Sorry, this media type is not supported.--> = (2³ x 5³)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1165809267271">      = 2 x 5</para>
+        <para id="id1165805114863">      = 10</para>
+        <para id="id1165809415139">2.2 a) 36     </para>
+        <para id="id1165809416064">b) 192</para>
+        <para id="id1165809259347"> c)  1     </para>
+        <para id="id1165804782504">d)  1</para>
+        <para id="id1165801311524"> e)  2     </para>
+        <para id="id1165809153850">f)  17</para>
+        <para id="id1165804889538"> g) 63     </para>
+        <para id="id1165804757931">h)  9</para>
+        <para id="id1165805041216"> i) 10     </para>
+        <para id="id1165804809265">j)  4</para>
+        <para id="id1165801382750"> k) 27     </para>
+        <para id="id1165809085465">l) 8<emphasis effect="italics">x</emphasis><sup>6</sup></para>
+      </section>
+      <section id="id1165801259805">
+        <title>HUISWERKOPDRAG 1</title>
+        <para id="id1165801236285">1.1 <!--Sorry, this media type is not supported.--> = (2<sup>12</sup>)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1165801242433">   = 2<sup>4 </sup></para>
+        <para id="id1165801232595">   = 16</para>
+        <para id="id1165801384784">1.2 <!--Sorry, this media type is not supported.--> = (2<sup>4</sup> x 3<sup>4</sup>)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1165801205969">   = 2 x 3</para>
+        <para id="id1165804987490">   = 6</para>
+        <para id="id1165804993078">2.1: <!--Sorry, this media type is not supported.--> = 3² = 9</para>
+        <para id="id1165809414844">2.2: 5<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis><sup>5</sup></para>
+        <para id="id1165805031720">2.3: <!--Sorry, this media type is not supported.--> = <!--Sorry, this media type is not supported.--> x 3 = <!--Sorry, this media type is not supported.--></para>
+        <para id="id1165805076573">     = 1,2</para>
+        <para id="id1165805053640">2.4: 4 + 64 = 68</para>
+        <list id="id1165801273503" list-type="bulleted">
+          <item>:2(8) = 16</item>
+          <item>:13</item>
+        </list>
+        <para id="id1165801283513">2.7: (<!--Sorry, this media type is not supported.-->)<sup>2</sup> = 54</para>
+        <para id="id1165804992693">2.8: <!--Sorry, this media type is not supported.--> = 36</para>
+        <list id="id1165805022352" list-type="bulleted">
+          <item>:2(9) = 18</item>
+          <item>: 9 - 27 = -18</item>
+        </list>
+        <para id="id1165805064739">KLASOPDRAG 2</para>
+        <para id="id1165801377484">21. KGV: Kleinste gemene veelvoud </para>
+        <para id="id1165805007726"> KGV van 2, 6, 12 : </para>
+        <para id="id1165804619877">24 HGV: Hoogste gemene veelvoud </para>
+        <para id="id1165809122398"> HGV van 24 en 48 :</para>
+        <para id="id1165804750008">2. 38 = 2 x 19</para>
+        <para id="id1165801328177"> 57 = 3 x 19</para>
+        <para id="id1165809071620"> 95 = 5 x 19</para>
+        <para id="id1165809191606"> HGV / HCF = 19</para>
+        <para id="id1165804822403"> KGV / LCM = 19 x 2 x 3 x 5</para>
+        <para id="id1165801299748"> = 570</para>
+        <para id="id1165801219972">TUTORIAAL 1</para>
+        <para id="id1165801217527">1.1: <!--Sorry, this media type is not supported.--> = 8</para>
+        <para id="id1165804988337">1.2: <!--Sorry, this media type is not supported.--></para>
+        <list id="id1165804616864" list-type="bulleted">
+          <item>:2³ . 3<sup>7,5</sup></item>
+          <item>:3(3 + 4) = 21</item>
+          <item>:81</item>
+          <item>:16</item>
+        </list>
+        <para id="id1165804832367">1.7: 125</para>
+        <para id="id1165804999108">2.1: 3 + 2 + 4 = 9  9 ÷ 3 = 3  Ja! </para>
+        <para id="id1165801287662">2.2: 324 = 2² x 3<sup>4</sup></para>
+        <para id="id1165809202816">2.3: <!--Sorry, this media type is not supported.--> = (2² x 3<sup>4</sup>)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1165804736800">  = 2 x 3²</para>
+        <para id="id1165804600678">  = 18</para>
+        <para id="id1165805063822">2.4: Ja! 18 x 18 = 324 /18² = 324</para>
+        <list id="id1165804790891" list-type="bulleted">
+          <item>:9</item>
+          <item>:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {2} } } {}</m:annotation></m:semantics></m:math> = 3</item>
+        </list>
+        <para id="id1165809170089">3.3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>16</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {9+"16"} } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>25</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"25"} } {}</m:annotation></m:semantics></m:math> = 5</para>
+        <para id="id1165809416520">3.4: 4<emphasis effect="italics">x</emphasis><sup>8</sup></para>
+        <list id="id1165805012472" list-type="bulleted">
+          <item>:4<sup>3 </sup>= 64</item>
+          <item>:3</item>
+        </list>
+      </section>
+      <section id="id1165809230366">
+        <title>VERRYKINGSOEFENING </title>
+        <para id="id1165809144404">1. d</para>
+        <para id="id1165809103017">2. c</para>
+        <para id="id1165809401094">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>180</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"180" \( "10" - 2 \) }  over  {"10"} } } {}</m:annotation></m:semantics></m:math> = 144º (een hoek) (1 440 – 240) ÷ 8 = 150 (d)</para>
+        <para id="id1165805101381">4. b: 3<sup>1993</sup> eindig op 1 </para>
+        <para id="id1165809397501">TOETS 1</para>
+        <list id="id1165809397506" list-type="bulleted">
+          <item>:23, 29</item>
+          <item>:1, 2, 3, 6, 12</item>
+          <item>:;;;;;;;;4, 6, 12</item>
+        </list>
+        <para id="id1165809252998">2. * 2  1 + 2 + 1 + 3 + 1 + 5 + 6 + 3 = 22</para>
+        <para id="id1165809095338">3.1: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>100</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"100"} } {}</m:annotation></m:semantics></m:math> = 10</para>
+        <para id="id1165805091332">3.2:; 2<sup>3</sup> = 8</para>
+        <para id="id1165804927449">3.3:; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mtext>25</m:mtext><m:mn>9</m:mn></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {"25"}  over  {9} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1165804725298">3.4: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mn>4</m:mn><m:mtext>100</m:mtext></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {4}  over  {"100"} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> = 0,2 / 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1165804721100">3.5: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>64</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"64"} } {}</m:annotation></m:semantics></m:math> = 8</para>
+        <list id="id1165801317964" list-type="bulleted">
+          <item>:2 x 3 = 6</item>
+          <item>:9</item>
+          <item>:4 – 1 = 3</item>
+        </list>
+        <para id="id1165804719680">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi fontstyle="italic">x3</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {2 rSup { size 8{6} } x3 rSup { size 8{3} } } } {}</m:annotation></m:semantics></m:math> = 2<sup>2</sup> x 3</para>
+        <para id="id1165804718319">   = 4 x 3</para>
+        <para id="id1165805112260">   = 12</para>
+        <para id="id1165801217120">5. (2)  = 2<sup>2</sup> = 4</para>
+        <para id="id1165804932868">(4)  = 4<sup>4</sup> = 256</para>
+      </section>
+    </section>
+  </content>
+</document>

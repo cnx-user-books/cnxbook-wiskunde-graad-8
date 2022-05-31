@@ -1,0 +1,468 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om driehoeke te klassifiseer en te konstrueer</title>
+  <metadata>
+  <md:content-id>m31061</md:content-id><md:title>Om driehoeke te klassifiseer en te konstrueer</md:title>
+  <md:abstract/>
+  <md:uuid>b6eb4182-6b35-432e-b7bf-11fccf2a53f9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169196526716">
+      <title>WISKUNDE</title>
+      <para id="para-id1169196526716">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169196813720">
+      <title>Graad 8</title>
+      <para id="para-id1169196813720">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169196677296">
+      <title>RASIONALE GETALLE, SIRKELS EN DRIEHOEKE</title>
+      <para id="para-id1169196677296">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169196847729">
+      <title>Module 14</title>
+      <para id="para-id1169196847729">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169196389284">
+      <title>OM DRIEHOEKE TE KLASSIFISEER EN TE KONSTRUEER</title>
+      <para id="id1169196463802">DRIEHOEKE</para>
+      <para id="id1169196769231">AKTIWITEIT 1</para>
+      <para id="id1169196422786">Om driehoeke te klassifiseer, belangrike stellings rondom driehoeke te ontdek en driehoeke te konstrueer</para>
+      <table id="id1169196851652" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>LU 3.1</entry>
+              <entry>LU 3.3</entry>
+              <entry>LU 3.4</entry>
+              <entry>LU 4.2.1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1169196641852" list-type="bulleted">
+        <item>Jy sal aan die einde van hierdie leseenheid die volgende kan doen: </item>
+      </list>
+      <list id="id1169196887665" list-type="bulleted">
+        <item>Verstaan hoe belangrik die gebruik van driehoeke in alledaagse situasies is;</item>
+        <item>Vir ander mense vertel hoe om ongekende sye van ‘n reghoekige driehoek uit te werk (Pythagoras);</item>
+        <item>Die oppervlakte van ‘n driehoek bereken;</item>
+        <item>Die aksie in meetkunde geniet;</item>
+        <item>Wiskundige taal gebruik om wiskundige idees, begrippe en veralgemenings en denkprosesse oor te dra.</item>
+      </list>
+      <para id="id1169196674691">1. Wanneer jy driehoeke klassifiseer, kan jy dit doen volgens hul hoeke, of volgens hul sye.</para>
+      <list id="id1169196668158" list-type="bulleted">
+        <item>Klassifikasie op grond van die hoeke van ‘n driehoek:</item>
+      </list>
+      <para id="id1169196834988"> Kan jy die volgende voltooi?</para>
+      <para id="id1169196813866">a) Skerphoekige driehoeke is driehoeke met  </para>
+      <para id="id1169196838779">b) Reghoekige driehoeke het  </para>
+      <para id="id1169196742805">c) Stomphoekige driehoeke het  </para>
+      <list id="id1169196816247" list-type="bulleted">
+        <item>Klassifikasie op grond van die sye van die driehoek:</item>
+      </list>
+      <para id="id1169196857035"> Kan jy die volgende voltooi?</para>
+      <para id="id1169196486852">a) ‘n Gelybenige driehoek het  </para>
+      <para id="id1169196446168">b) ‘n Gelyksydige driehoek het  </para>
+      <para id="id1169196670293">c) ‘n Ongelyksydige driehoek se  </para>
+      <para id="id1169196703723">2. Kan jy die volgende stellings voltooi rakende driehoeke? Maak ‘n skets om elk van die stellings prakties te illustreer. </para>
+      <para id="id1169196649076">STELLING 1:</para>
+      <list id="id1169196844641" list-type="bulleted">
+        <item>Die som van die binnehoeke van enige driehoek is .........................</item>
+      </list>
+      <list id="id1169196482946" list-type="bulleted">
+        <item>Skets: </item>
+      </list>
+      <para id="id1169196509359">STELLING 2:</para>
+      <list id="id1169196434573" list-type="bulleted">
+        <item>Die buitehoek van ‘n driehoek is  </item>
+      </list>
+      <para id="id1169196424773"/>
+      <list id="id1169196893846" list-type="bulleted">
+        <item>Skets:</item>
+      </list>
+      <para id="id1169196709324">3. Konstruksie van driehoeke:</para>
+      <list id="id1169196386708" list-type="bulleted">
+        <item>Benodigdhede: passer, gradeboog, potlood en ‘n liniaal</item>
+      </list>
+      <para id="id1169196529928">Onthou:  </para>
+      <list id="id1169196791265" list-type="bulleted">
+        <item>Maak altyd eers ‘n “rowwe sketsie” van hoe dit moontlik kan lyk.</item>
+        <item>Begin altyd met ‘n basislyn.</item>
+      </list>
+      <para id="id1169196828624">3.1 Konstrueer 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">PQR</emphasis> met <emphasis effect="italics">PQ</emphasis> = 7 cm, <emphasis effect="italics">PR</emphasis> = 5 cm en <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>P</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {P}}} {}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="italics"/>= 70°.</para>
+      <para id="id1169196734616">a) <emphasis effect="italics">Skets:</emphasis></para>
+      <para id="id1169196470536">b) Meet nou die volgende:</para>
+      <para id="id1169196500345">1. <emphasis effect="italics">QR</emphasis> = ........ 2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>R</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {R}}} {}</m:annotation></m:semantics></m:math> = ........ 3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>Q</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {Q}}} {}</m:annotation></m:semantics></m:math> = ........ 4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>P</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mo stretchy="false">+</m:mo><m:mover accent="true"><m:mi>Q</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow><m:mo stretchy="false">+</m:mo><m:mover accent="true"><m:mi>R</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {P}}+ { hat  {Q}}+ { hat  {R}}={}} {}</m:annotation></m:semantics></m:math> ........</para>
+      <para id="id1169196423445">3.2 Konstrueer 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">KLM</emphasis> , ‘n gelykbenige driehoek. <emphasis effect="italics">KM</emphasis> = 40 mm, <emphasis effect="italics">KL</emphasis>=<emphasis effect="italics">LM</emphasis> en 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>K</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {K}}} {}</m:annotation></m:semantics></m:math> = 75°.Dui die groottes van al die hoeke op jou skets aan.</para>
+      <list id="id1169196373865" list-type="bulleted">
+        <item>
+          <emphasis effect="italics">Skets: </emphasis>
+        </item>
+        <item/>
+      </list>
+      <para id="id1169196434244"/>
+      <para id="id1169196846937">AKTIWITEIT 2</para>
+      <para id="id1169196655909">Om die stelling van Pythagoras te ontdek en die berekening van die onbekende sye deur van die stelling gebruik te maak, te bemeester</para>
+      <table id="id1169196875319" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>LU 4.2.1</entry>
+              <entry>LU 4.8</entry>
+              <entry>LU 4.9</entry>
+              <entry>LU 4.10</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1169196865306" list-type="bulleted">
+        <item>Die volgende kan ‘n groepe gedoen word.</item>
+      </list>
+      <para id="id1169196818070">Prakties: Maak jou eie tangram </para>
+      <para id="id1169196480206">1. Sny ‘n vierkant (10 cm x 10 cm) uit karton.</para>
+      <para id="id1169196791225">2. Trek albei hoeklyne in, want dit moet deel vorm van die basisse van sommige figure.</para>
+      <para id="id1169196742016">3. Die volledige figuur moet uit die volgende bestaan:</para>
+      <para id="id1169196659800">3.1 twee groot gelykbenige driehoeke met basisse 10 cm elk</para>
+      <para id="id1169196651403">3.2 twee kleiner gelykbenige driehoeke met basisse 5 cm elk</para>
+      <para id="id1169196422888">3.3 een medium gelykbenige driehoek met twee aangrensende sye elk 5 cm</para>
+      <para id="id1169196875298">3.4 een vierkant met hoeklyne 5 cm</para>
+      <para id="id1169196641517">3.5 een parallelogram met twee oorstaande sye 5 cm</para>
+      <list id="id1169196500472" list-type="bulleted">
+        <item>Jy moet twee hiervan maak.</item>
+      </list>
+      <figure id="id1169196418770">
+        <media id="id1169196418770_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 12.jpg" id="id1169196418770__onlineimage" height="191" width="190"/>
+        </media>
+      </figure>
+      <para id="id1169196753338">
+        <figure id="id1169196844170">
+          <media id="id1169196844170_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-e857.png" id="id1169196844170__onlineimage" height="327" width="352"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1169196394787">4. Trek nou jou grootste driehoek van jou tangram in jou werkboek na.</para>
+      <para id="id1169196499854">5. Gebruik al sewe stukke en vorm ‘n vierkant daarmee en plaas dit op die skuinssy van jou nagetrekte driehoek.</para>
+      <para id="id1169196486543">6. Gebruik nou die twee grootste driehoeke en vorm ‘n vierkant daarmee en plaas dit op een van die reghoeksye van die nagetrekte driehoek.</para>
+      <para id="id1169196462172">7. Gebruik nou die oorblywende stukke en vorm ‘n vierkant daarmee en plaas dit op die ander reghoeksy.</para>
+      <para id="id1169196464195">8. Bereken die oppervlakte van elke vierkant .</para>
+      <para id="id1169196507544">9. <emphasis effect="bold">Wat is jou afleiding?</emphasis></para>
+      <para id="id1169196639587">10. Afleiding: Skryf nou die stelling van PYTHAGORAS hier neer deur van die gegewe driehoek gebruik te maak.</para>
+      <para id="id1169196846124">
+        <figure id="id1169196768338">
+          <media id="id1169196768338_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-6658.png" id="id1169196768338__onlineimage" height="165" width="141"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1169196826184">11. Los x op in elk van die volgende driehoeke:<emphasis effect="bold"/>(Jy mag jou sakrekenaar gebruik.)</para>
+      <figure id="id1169196820934">
+        <media id="id1169196820934_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-f03e.png" id="id1169196820934__onlineimage" height="188" width="609"/>
+        </media>
+      </figure>
+      <para id="id1169196452584">11.3  </para>
+      <figure id="id1169196853278">
+        <media id="id1169196853278_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-b971.png" id="id1169196853278__onlineimage" height="165" width="269"/>
+        </media>
+      </figure>
+      <para id="id1169196898120">11.4</para>
+      <figure id="id1169196420535">
+        <media id="id1169196420535_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-e4ce.png" id="id1169196420535__onlineimage" height="172" width="160"/>
+        </media>
+      </figure>
+      <para id="id1169196525973"/>
+      <para id="id1169196733650">12. Bereken of die volgende ‘n reghoekige driehoek is of nie:</para>
+      <para id="id1169196855387">12.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">DEF</emphasis> met <emphasis effect="italics">DE</emphasis> = 8 cm, <emphasis effect="italics">EF</emphasis> = 10 cm, <emphasis effect="italics">DF</emphasis> = 6 cm</para>
+      <para id="id1169196876827">13. OPPERVLAKTE VAN DRIEHOEKE</para>
+      <para id="id1169196741953">13.1 Konstrueer ‘n reghoek <emphasis effect="italics">ABCD</emphasis> met <emphasis effect="italics">AB</emphasis> = 45 mm en <emphasis effect="italics">AD</emphasis> = 25 mm op ‘n stuk papier en knip dit uit. Trek hoeklyn <emphasis effect="italics">AC</emphasis>. </para>
+      <para id="id1169196894687">13.2 Bereken die oppervlakte van reghoek <emphasis effect="italics">ABCD</emphasis>.</para>
+      <para id="id1169196382014"/>
+      <para id="id1169196889713">13.3 Knip 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">ABC</emphasis> uit. Wat is die oppervlakte van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">ABC</emphasis>?</para>
+      <list id="id1169196891828" list-type="bulleted">
+        <item>Oppervlakte van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">ABC</emphasis> = ................. mm²</item>
+      </list>
+      <para id="id1169196418553">13.4 Kan jy nou ‘n formule bepaal om die oppervlakte van enige driehoek te bepaal?</para>
+      <para id="id1169196741914">Skryf dit hier neer:  </para>
+      <para id="id1169196776367">13.5 Bereken die oppervlakte van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">ABC</emphasis>.</para>
+      <figure id="id1169196480252">
+        <media id="id1169196480252_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-d023.png" id="id1169196480252__onlineimage" height="146" width="125"/>
+        </media>
+      </figure>
+      <para id="id1169196744210">13.6 In die figuur is <emphasis effect="italics">SQ</emphasis> = 15 cm, <emphasis effect="italics">QR</emphasis> = 7 cm en <emphasis effect="italics">PR</emphasis> = 9 cm.</para>
+      <para id="id1169196821130"><emphasis effect="bold">Belangrik</emphasis>: Vul alle gegewens op jou skets in. Kyk dan wat jy kortkom om die vraag volledig te beantwoord.</para>
+      <figure id="id1169196473049">
+        <media id="id1169196473049_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7-d77e.png" id="id1169196473049__onlineimage" height="148" width="197"/>
+        </media>
+      </figure>
+      <para id="id1169196506886"/>
+      <para id="id1169196881716">(a) Bereken die oppervlakte van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">PSQ</emphasis> (korrek tot 2 desimale).</para>
+      <para id="id1169196393482"/>
+      <para id="id1169196718844"/>
+      <para id="id1169196714083">(b) Bereken nou die oppervlakte van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">PSR</emphasis>.<emphasis effect="bold">Wenk</emphasis>: Jy sal eers ‘n ander driehoek se oppervlakte moet bereken.</para>
+      <para id="id1169196910105"/>
+      <para id="id1169196900064"/>
+      <para id="id1169196908854"/>
+      <para id="id1169196387264"/>
+      <para id="id1169196388586">13.7 Bereken die oppervlakte van <emphasis effect="italics">ABCD</emphasis>. </para>
+      <figure id="id1169196382811">
+        <media id="id1169196382811_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8-cc66.png" id="id1169196382811__onlineimage" height="236" width="199"/>
+        </media>
+      </figure>
+      <para id="id1169196910569">14. Bereken die lengte van die ontbrekende sye in elk van die volgende: </para>
+      <para id="id1169196909068">14.1  </para>
+      <figure id="id1169196898741">
+        <media id="id1169196898741_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics9-b241.png" id="id1169196898741__onlineimage" height="172" width="255"/>
+        </media>
+      </figure>
+      <para id="id1169196420567"/>
+      <para id="id1169196887450">14.2</para>
+      <figure id="id1169196402415">
+        <media id="id1169196402415_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics10-8be7.png" id="id1169196402415__onlineimage" height="164" width="161"/>
+        </media>
+      </figure>
+      <para id="id1169196907282"/>
+      <figure id="id1169191329564">
+        <media id="id1169191329564_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics11-2b99.png" id="id1169191329564__onlineimage" height="231" width="338"/>
+        </media>
+      </figure>
+      <para id="id1169196388515">15. Om in pretparke te speel is ‘n noodsaaklikheid in die ontwikkelingsfase van ‘n kind.</para>
+      <list id="id1169191323668" list-type="bulleted">
+        <item>Jy word gevra om die glyplanke te voorsien. Die enigste probleem is om die lengte van die paal wat benodig word te bereken. Kan jy met al die kennis tot jou beskikking ‘n plan voorsien?</item>
+      </list>
+      <figure id="id1169191329064">
+        <media id="id1169191329064_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics12-9a61.png" id="id1169191329064__onlineimage" height="192" width="307"/>
+        </media>
+      </figure>
+      <list id="id1169191328064" list-type="bulleted">
+        <item>Die volgende word van jou verwag:</item>
+      </list>
+      <para id="id1169196405917">15.1 ‘n skets</para>
+      <para id="id1169196910641">15.2 ‘n skaal bv. 1 cm = 1 km</para>
+      <para id="id1169191320881">15.3 Volledige berekeninge moet getoon word. </para>
+    </section>
+    <section id="id1169191323132">
+      <title>Assessering</title>
+      <table id="id1169196893203" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 3 </entry>
+            </row>
+            <row>
+              <entry>Ruimte en Vorm (Meetkunde)Die leerder is in staat om eienskappe van en verwantskappe tussen twee- dimensionele vorms en drie-dimensionele voorwerpe in ’n verskeidenheid oriënta-sies en posisies te beskryf en voor te stel.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>3.2 in kontekste insluitend sodaniges wat gebruik kan word om bewustheid van sosiale, kulturele en omgewingsaangeleenthede te skep, geometriese figure en soliedes kan beskryf en klassifiseer in terme van eienskappe, insluitend:</entry>
+            </row>
+            <row>
+              <entry>3.2.1 sye, hoeke en diagonale en hul verbande, met die fokus op driehoeke en kwadrilaterale (bv. tipes driehoeke en kwadrilaterale).</entry>
+            </row>
+            <row>
+              <entry>LU 4 </entry>
+            </row>
+            <row>
+              <entry>MetingDie leerder is in staat om gepaste meeteenhede, -instrumente en formules in ’n verskeidenheid kontekste te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>4.2 probleme kan oplos wat die volgende behels:</entry>
+            </row>
+            <row>
+              <entry>4.2.1 lengte;</entry>
+            </row>
+            <row>
+              <entry>4.2.2 omtrek en oppervlak van poligone en sirkels;</entry>
+            </row>
+            <row>
+              <entry>4.3 probleme aan die hand van ‘n reeks strategieë oplos wat die volgende insluit:</entry>
+            </row>
+            <row>
+              <entry>4.3.1 skatting;</entry>
+            </row>
+            <row>
+              <entry>4.3.2 berekening tot minstens twee desimale plekke;</entry>
+            </row>
+            <row>
+              <entry>4.3.3 die gebruik en omskakeling van toepaslike SI eenhede;</entry>
+            </row>
+            <row>
+              <entry>4.4 die betekenis van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> kan beskryf en dit in berekeninge wat sirkels behels kan gebruik, en ook die historiese ontwikkeling daarvan in meting kan bespreek;</entry>
+            </row>
+            <row>
+              <entry>4.5 die volgende kan bereken deur toepaslike formules te kies en te gebruik:</entry>
+            </row>
+            <row>
+              <entry>4.5.1 omtrek van poligone en sirkels;</entry>
+            </row>
+            <row>
+              <entry>4.5.2 oppervlakte van driehoeke, reghoeke, sirkels en poligone deur hulle in driehoeke en reghoeke op te breek;</entry>
+            </row>
+            <row>
+              <entry>4.8 die verband tussen die sye van ‘n reghoekige driehoek kan ondersoek (alleen en/of as lid van ‘n groep) om die stelling van Pythagoras te ondersoek;</entry>
+            </row>
+            <row>
+              <entry>4.9 die stelling van Pythagoras kan gebruik om ‘n ontbrekende lengte in ‘n reghoekige driehoek te bereken terwyl irrasionele antwoorde in surd-vorm (√) gelaat word;</entry>
+            </row>
+            <row>
+              <entry>4.10 wyses van meting in verskillende kulture in die geskiedenis kan beskryf en illustreer (bv. die bepaling van reghoeke deur geknoopte lyn te gebruik en by die stelling van Pythagoras uit te kom).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1169196426590">
+      <title/>
+      <para id="para-id1169196426590">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169196490691">
+      <title>Memorandum</title>
+      <para id="id1169196668352">AKTIWITEIT 1</para>
+      <para id="id1169196652916">1.1 a) al 3 skerphoeke</para>
+      <para id="id1169196385214"> b) een 90<sup>o</sup>-hoek</para>
+      <para id="id1169196856524"> c) een stomphoek</para>
+      <para id="id1169196817518">1.2 a) 2 gelyke sye</para>
+      <para id="id1169196516832"> b) 3 gelyke sye</para>
+      <para id="id1169196480419"> c) sye verskil in lengtes</para>
+      <para id="id1169196474905">2. 180<sup>o</sup> Die som van die 2 teenoorstaande binnehoeke</para>
+      <para id="id1169196510252">AKTIWITEIT 2</para>
+      <para id="id1169196680716">10. <emphasis effect="italics">r</emphasis><sup>2</sup> = <emphasis effect="italics">p</emphasis><sup>2</sup> + <emphasis effect="italics">q</emphasis><sup>2</sup></para>
+      <list id="id1169196662135" list-type="bulleted">
+        <item><emphasis effect="italics">x</emphasis><sup> 2</sup> = 12<sup>2</sup> + 5<sup>2</sup></item>
+      </list>
+      <para id="id1169196657096">= 144 + 25</para>
+      <para id="id1169196453461">= 169</para>
+      <para id="id1169196807002"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis> = 13</para>
+      <list id="id1169196486334" list-type="bulleted">
+        <item>20<sup>2</sup> = 8<sup>2</sup> + <emphasis effect="italics">x</emphasis><sup>2</sup></item>
+      </list>
+      <para id="id1169196785629"><emphasis effect="italics">x</emphasis><sup>2 </sup>= 400 – 64</para>
+      <para id="id1169196639127">= 336</para>
+      <para id="id1169196817682"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 18,3 cm</para>
+      <para id="id1169196354805">11.3  <emphasis effect="italics">ABC</emphasis>: <emphasis effect="italics">x</emphasis><sup> 2</sup> = 70<sup>2</sup> – 29<sup>2</sup></para>
+      <para id="id1169196865350">   = 4 900 – 841</para>
+      <para id="id1169196514198">   = 4 059</para>
+      <para id="id1169196716130"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 63,7 mm</para>
+      <para id="id1169196529731">11.4 <emphasis effect="italics">y</emphasis><sup>2</sup> = 4<sup>2</sup> + 3<sup>2</sup></para>
+      <para id="id1169196650986">  = 16 + 9</para>
+      <para id="id1169196480682">  = 25</para>
+      <para id="id1169196820974"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 9,4 cm</para>
+      <para id="id1169196689713">12. <emphasis effect="italics">DE</emphasis><sup>2</sup> + <emphasis effect="italics">DF</emphasis><sup>2</sup> = 100 = <emphasis effect="italics">EF</emphasis><sup>2</sup></para>
+      <para id="id1169196695686"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">DEF</emphasis> regte hoek</para>
+      <para id="id1169196694866"> (Pythagoras)</para>
+      <list id="id1169196760667" list-type="bulleted">
+        <item>½ x <emphasis effect="italics">b</emphasis> x <emphasis effect="italics">h</emphasis></item>
+        <item><emphasis effect="italics">BC</emphasis><sup>2</sup> = 13<sup>2</sup> – 5<sup>2</sup></item>
+      </list>
+      <para id="id1169196855422">= 169 – 25</para>
+      <para id="id1169196894220">= 144</para>
+      <para id="id1169196782665"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">BC</emphasis> = 12 cm</para>
+      <para id="id1169196912905">Area <emphasis effect="italics">ABC</emphasis> = ½ x <emphasis effect="italics">b</emphasis> x <emphasis effect="italics">h</emphasis></para>
+      <para id="id1169196852721">  = ½ x 12 x 5</para>
+      <para id="id1169196902878">  = 30 cm<sup>2</sup></para>
+      <para id="id1169196905098">13.6 (a) <emphasis effect="italics">P</emphasis><emphasis effect="italics">S</emphasis><sup>2</sup> = 9<sup>2</sup> – 8<sup>2</sup></para>
+      <para id="id1169196911597">   = 81 – 64</para>
+      <para id="id1169196479813">   = 17</para>
+      <para id="id1169196681804"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">P</emphasis><emphasis effect="italics">S</emphasis> = 4,12 cm</para>
+      <para id="id1169196396751"> Area <emphasis effect="italics">P</emphasis><emphasis effect="italics">SQ</emphasis> = ½ x <emphasis effect="italics">b</emphasis> x <emphasis effect="italics">h</emphasis></para>
+      <para id="id1169196912066">= ½ x 15 x 4,12</para>
+      <para id="id1169196891947">= 30,9cm<sup>2</sup></para>
+      <para id="id1169196874320">13.6 (<emphasis effect="italics">b</emphasis>) Area <emphasis effect="italics">P</emphasis>SR = ½ x 8 x 4,12</para>
+      <para id="id1169196399046">= 16,4cm<sup>2</sup></para>
+      <para id="id1169196905419">Area <emphasis effect="italics">P</emphasis><emphasis effect="italics">RQ</emphasis> = area <emphasis effect="italics">P</emphasis>SQ – <emphasis effect="italics">P</emphasis><emphasis effect="italics">SR</emphasis></para>
+      <para id="id1169196894216">= 30,9 – 16,4</para>
+      <para id="id1169191325760">= 14,5 cm<sup>2</sup></para>
+      <para id="id1169196887253">13.7 <emphasis effect="italics">AC</emphasis><sup>2</sup> = 12<sup>2</sup> + 8<sup>2</sup></para>
+      <para id="id1169196905763">= 208</para>
+      <para id="id1169196874359"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">AC</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 14,4</para>
+      <para id="id1169196902479"><emphasis effect="italics">A</emphasis><emphasis effect="italics">D</emphasis><sup>2</sup> = 16<sup>2</sup> – 14,4<sup>2</sup></para>
+      <para id="id1169196885015">  = 256 – 207,36</para>
+      <para id="id1169191331008">  = 48,64</para>
+      <para id="id1169196422512"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">A</emphasis><emphasis effect="italics">D</emphasis> = 6,97</para>
+      <para id="id1169196422516"> Area <emphasis effect="italics">ABC</emphasis><emphasis effect="italics">D</emphasis> = area <emphasis effect="italics">ABC</emphasis> + area <emphasis effect="italics">AC</emphasis><emphasis effect="italics">D</emphasis></para>
+      <para id="id1169196836091">   = (½ x 12 x 8) + (6,97 x 14,4 x ½)</para>
+      <para id="id1169196869602">   = 48 + 50,18</para>
+      <para id="id1169196395734">   = 98,18 vierkanteenhede</para>
+      <list id="id1169196885930" list-type="bulleted">
+        <item><emphasis effect="italics">a</emphasis><sup>2</sup> = 8<sup>2</sup> – 7<sup>2</sup></item>
+      </list>
+      <para id="id1169196744398">= 15</para>
+      <para id="id1169196782913"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">a</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 3,9</para>
+      <para id="id1169196505356"><emphasis effect="italics">b</emphasis><sup>2</sup> = (3,9)<sup>2</sup> + 4<sup>2</sup></para>
+      <para id="id1169191327099">= 15,21 + 16</para>
+      <para id="id1169196887270">= 31,21</para>
+      <para id="id1169196885949"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">b</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 5,6</para>
+      <list id="id1169196871017" list-type="bulleted">
+        <item><emphasis effect="italics">x</emphasis> = 18 (radius)</item>
+      </list>
+      <para id="id1169196459984"><emphasis effect="italics">y</emphasis><sup>2</sup> = 36<sup>2</sup> – 13<sup>2</sup></para>
+      <para id="id1169196697402">= 1 296 – 169</para>
+      <para id="id1169196656094">= 1 127</para>
+      <para id="id1169196817326"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">y</emphasis> = 33,6</para>
+      <list id="id1169196841143" list-type="bulleted">
+        <item><emphasis effect="italics">uv</emphasis><sup>2</sup> = 12<sup>2</sup> – 7<sup>2</sup></item>
+      </list>
+      <para id="id1169196865922">= 95</para>
+      <para id="id1169196821168"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">uv</emphasis> = 9,8</para>
+      <para id="id1169196447055"><emphasis effect="italics">vs</emphasis><sup>2</sup> = 14<sup>2</sup> + (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 9,8)<sup>2</sup></para>
+      <para id="id1169196795182">  = 196 + 95</para>
+      <para id="id1169196776217">  = 291</para>
+      <para id="id1169196694930"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">vs</emphasis> = 17,1</para>
+      <para id="id1169196795217"><emphasis effect="italics">y</emphasis><sup>2</sup> = (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 17,1)<sup>2</sup> + 5<sup>2</sup></para>
+      <para id="id1169196746925">  = 291 + 25</para>
+      <para id="id1169196412348">  = 316</para>
+      <para id="id1169196744300"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">y</emphasis> = 17,8</para>
+    </section>
+  </content>
+</document>
